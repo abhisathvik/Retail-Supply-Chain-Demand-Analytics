@@ -84,7 +84,7 @@ IF(
     "Reorder Now",
     "Healthy"
 )
-
+```
 ### 🔍 Key Insights (Business Findings)
 
 From the analysis, the following insights were derived:
@@ -103,3 +103,27 @@ Based on the analysis:
 	•	Use data-driven replenishment instead of manual stock decisions.
 
 ### 📂 Repository Structure
+```
+Retail-Business-Analytics-Project/
+│
+├── data/
+│   ├── retail_sales_sample.csv
+│   └── retail_inventory_sample.csv
+│
+├── powerbi/
+│   └── Retail_Analytics_Dashboard.pbix
+│   └── Analysis Dashboard Image 1
+│   └── Analysis Dashboard Image 2
+│   └── Analysis Dashboard Image 3
+│   
+└── README.md
+```
+### 👤 About Me
+
+I am a beginner in Business Analytics and completed this project to build practical skills in:
+	•	Data analysis
+	•	Business problem-solving
+	•	Power BI visualization
+	•	Supply chain analytics
+
+This project represents my hands-on learning journey in analytics.
