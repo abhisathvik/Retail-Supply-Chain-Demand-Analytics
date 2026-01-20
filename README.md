@@ -87,13 +87,13 @@ IF(
 ```
 ### 🔍 Key Insights (Business Findings)
 
-From the analysis, the following insights were derived:
-	- Certain products consistently generated higher revenue, indicating strong demand.
-	- Some cities showed significantly higher sales, suggesting priority markets.
-	- A few products were frequently below reorder level, indicating risk of stockouts.
-	- Seasonal variations in sales were observed, supporting better demand planning.
-	<img width="1710" height="952" alt="Screenshot 2026-01-20 at 10 48 30" src="https://github.com/user-attachments/assets/ac89cd18-2620-498a-aaf4-3fe67b553dab" />
-	<img width="1710" height="949" alt="Screenshot 2026-01-20 at 11 00 54" src="https://github.com/user-attachments/assets/33cd7495-a9f6-4299-a2f6-8a74af16520d" />
+From the analysis, the following insights were derived: 
+- Certain products consistently generated higher revenue, indicating strong demand. 
+- Some cities showed significantly higher sales, suggesting priority markets. 
+- A few products were frequently below reorder level, indicating risk of stockouts. 
+- Seasonal variations in sales were observed, supporting better demand planning. 
+<img width="1710" height="952" alt="Screenshot 2026-01-20 at 10 48 30" src="https://github.com/user-attachments/assets/ac89cd18-2620-498a-aaf4-3fe67b553dab" />
+<img width="1710" height="949" alt="Screenshot 2026-01-20 at 11 00 54" src="https://github.com/user-attachments/assets/33cd7495-a9f6-4299-a2f6-8a74af16520d" />
 
 
 
