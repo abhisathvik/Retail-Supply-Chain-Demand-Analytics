@@ -84,3 +84,22 @@ IF(
     "Reorder Now",
     "Healthy"
 )
+
+### 🔍 Key Insights (Business Findings)
+
+From the analysis, the following insights were derived:
+	•	Certain products consistently generated higher revenue, indicating strong demand.
+	•	Some cities showed significantly higher sales, suggesting priority markets.
+	•	A few products were frequently below reorder level, indicating risk of stockouts.
+	•	Seasonal variations in sales were observed, supporting better demand planning.
+
+
+### 💡 Business Recommendations
+
+Based on the analysis:
+	•	Increase safety stock for high-demand products.
+	•	Reduce inventory of slow-moving items to minimize holding costs.
+	•	Align supplier lead times with demand patterns.
+	•	Use data-driven replenishment instead of manual stock decisions.
+
+### 📂 Repository Structure
