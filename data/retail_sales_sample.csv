@@ -1,0 +1,2001 @@
+Date,City,Category,Product,Units_Sold,Unit_Price,Revenue
+2024-04-12,Delhi,Personal Care,Sofa,12,837,10044
+2024-12-14,Delhi,Home,Rice,18,1802,32436
+2024-09-27,Mumbai,Apparel,Phone,13,1706,22178
+2024-04-16,Chennai,Personal Care,Jeans,5,973,4865
+2024-03-12,Delhi,Apparel,Laptop,4,665,2660
+2024-07-07,Hyderabad,Groceries,Sofa,14,1368,19152
+2024-01-21,Hyderabad,Groceries,Phone,8,1985,15880
+2024-04-12,Bengaluru,Groceries,Rice,9,175,1575
+2024-05-01,Chennai,Apparel,Shampoo,19,646,12274
+2024-08-02,Delhi,Personal Care,Jeans,3,366,1098
+2024-11-26,Hyderabad,Groceries,Bed,5,416,2080
+2024-03-28,Chennai,Personal Care,Phone,18,1935,34830
+2024-04-09,Bengaluru,Apparel,Bed,1,1244,1244
+2024-12-25,Mumbai,Personal Care,Oil,8,1959,15672
+2024-05-31,Chennai,Apparel,Laptop,19,124,2356
+2024-05-10,Chennai,Apparel,Phone,17,1555,26435
+2024-05-29,Mumbai,Home,Soap,17,259,4403
+2024-11-04,Chennai,Apparel,Rice,11,695,7645
+2024-09-14,Bengaluru,Apparel,Sofa,2,1237,2474
+2024-12-09,Bengaluru,Electronics,Soap,6,1858,11148
+2024-10-20,Mumbai,Groceries,Oil,14,999,13986
+2024-07-10,Delhi,Home,Laptop,3,601,1803
+2024-10-03,Hyderabad,Home,Shampoo,12,1289,15468
+2024-06-09,Delhi,Home,Jeans,4,1112,4448
+2024-11-09,Chennai,Electronics,Bed,12,802,9624
+2024-01-22,Hyderabad,Apparel,Oil,13,1298,16874
+2024-09-09,Mumbai,Groceries,Sofa,2,100,200
+2024-08-23,Mumbai,Personal Care,Jeans,2,840,1680
+2024-12-10,Hyderabad,Apparel,Shampoo,15,1209,18135
+2024-02-18,Bengaluru,Electronics,Sofa,17,1697,28849
+2024-02-28,Hyderabad,Apparel,Rice,7,419,2933
+2024-06-18,Chennai,Apparel,Bed,14,1524,21336
+2024-07-06,Bengaluru,Electronics,Soap,12,481,5772
+2024-09-27,Mumbai,Home,Phone,17,1841,31297
+2024-07-08,Hyderabad,Home,Oil,14,1740,24360
+2024-06-23,Delhi,Groceries,Phone,6,1441,8646
+2024-02-20,Delhi,Groceries,Jeans,19,1926,36594
+2024-12-29,Chennai,Home,Phone,6,1373,8238
+2024-02-24,Delhi,Personal Care,Soap,18,1648,29664
+2024-08-31,Hyderabad,Apparel,T-Shirt,5,1798,8990
+2024-11-15,Hyderabad,Personal Care,Jeans,6,1678,10068
+2024-05-10,Delhi,Apparel,Bed,2,997,1994
+2024-11-02,Hyderabad,Home,Sofa,8,1746,13968
+2024-05-14,Chennai,Groceries,Bed,15,816,12240
+2024-01-21,Bengaluru,Groceries,Phone,15,1379,20685
+2024-11-24,Chennai,Personal Care,Laptop,11,406,4466
+2024-06-15,Chennai,Groceries,Jeans,1,1267,1267
+2024-09-30,Hyderabad,Home,Sofa,18,1781,32058
+2024-03-29,Bengaluru,Personal Care,Shampoo,12,490,5880
+2024-11-11,Hyderabad,Apparel,Rice,12,1936,23232
+2024-01-14,Mumbai,Groceries,Bed,11,1799,19789
+2024-08-29,Hyderabad,Electronics,Bed,8,1292,10336
+2024-09-21,Hyderabad,Groceries,Jeans,7,1089,7623
+2024-12-11,Hyderabad,Apparel,Laptop,2,397,794
+2024-02-22,Bengaluru,Personal Care,Phone,11,332,3652
+2024-12-05,Hyderabad,Apparel,Phone,10,370,3700
+2024-04-01,Bengaluru,Electronics,Jeans,3,1183,3549
+2024-09-20,Delhi,Home,Bed,10,1419,14190
+2024-02-04,Mumbai,Groceries,Sofa,18,1590,28620
+2024-07-24,Bengaluru,Personal Care,Rice,14,1358,19012
+2024-03-21,Delhi,Home,Jeans,18,776,13968
+2024-02-19,Bengaluru,Apparel,Sofa,8,805,6440
+2024-12-25,Bengaluru,Personal Care,Sofa,10,333,3330
+2024-01-02,Mumbai,Home,Shampoo,13,1491,19383
+2024-02-23,Chennai,Personal Care,Soap,8,1818,14544
+2024-04-15,Chennai,Electronics,T-Shirt,4,944,3776
+2024-09-16,Bengaluru,Electronics,Rice,4,1355,5420
+2024-11-05,Hyderabad,Groceries,Oil,5,1996,9980
+2024-07-09,Delhi,Groceries,Laptop,1,590,590
+2024-08-05,Hyderabad,Electronics,T-Shirt,17,1742,29614
+2024-02-13,Hyderabad,Personal Care,Shampoo,2,602,1204
+2024-06-10,Bengaluru,Electronics,Rice,8,989,7912
+2024-07-20,Bengaluru,Groceries,Phone,7,1858,13006
+2024-09-26,Bengaluru,Electronics,T-Shirt,15,691,10365
+2024-12-16,Bengaluru,Electronics,Phone,5,845,4225
+2024-10-30,Chennai,Personal Care,Laptop,2,1504,3008
+2024-09-27,Bengaluru,Home,Phone,7,1819,12733
+2024-08-02,Chennai,Groceries,Laptop,8,527,4216
+2024-09-08,Chennai,Personal Care,Rice,7,796,5572
+2024-07-08,Bengaluru,Electronics,Bed,7,745,5215
+2024-10-22,Mumbai,Electronics,Laptop,14,831,11634
+2024-07-31,Delhi,Home,Sofa,18,899,16182
+2024-07-26,Hyderabad,Groceries,Oil,6,463,2778
+2024-08-24,Chennai,Groceries,Oil,4,301,1204
+2024-12-03,Delhi,Apparel,Jeans,10,981,9810
+2024-02-22,Mumbai,Groceries,Oil,18,245,4410
+2024-10-06,Hyderabad,Home,Jeans,12,935,11220
+2024-08-04,Hyderabad,Apparel,Oil,16,738,11808
+2024-09-08,Chennai,Apparel,Laptop,7,1580,11060
+2024-07-06,Bengaluru,Electronics,Sofa,6,234,1404
+2024-02-10,Mumbai,Electronics,Bed,5,725,3625
+2024-06-05,Chennai,Groceries,Phone,3,1387,4161
+2024-01-15,Mumbai,Apparel,Shampoo,12,163,1956
+2024-10-27,Bengaluru,Electronics,Oil,15,590,8850
+2024-03-05,Bengaluru,Home,Bed,10,1770,17700
+2024-12-10,Chennai,Electronics,Bed,19,140,2660
+2024-11-22,Bengaluru,Electronics,Laptop,16,1419,22704
+2024-01-09,Delhi,Apparel,Rice,11,1126,12386
+2024-12-09,Hyderabad,Apparel,Rice,8,1012,8096
+2024-05-08,Chennai,Personal Care,Oil,3,1829,5487
+2024-05-15,Mumbai,Home,Shampoo,7,1074,7518
+2024-03-03,Delhi,Apparel,Oil,7,1233,8631
+2024-05-18,Chennai,Groceries,Oil,14,1344,18816
+2024-03-21,Bengaluru,Home,Jeans,2,1493,2986
+2024-06-11,Bengaluru,Home,Sofa,10,467,4670
+2024-10-15,Bengaluru,Apparel,Sofa,19,1559,29621
+2024-09-17,Bengaluru,Home,Shampoo,9,1017,9153
+2024-08-18,Mumbai,Apparel,Jeans,16,1127,18032
+2024-02-10,Delhi,Electronics,Bed,19,343,6517
+2024-01-28,Hyderabad,Personal Care,Jeans,18,1001,18018
+2024-05-14,Mumbai,Electronics,Oil,9,265,2385
+2024-07-19,Mumbai,Apparel,Rice,16,1149,18384
+2024-11-23,Hyderabad,Apparel,T-Shirt,13,1518,19734
+2024-09-24,Hyderabad,Electronics,Shampoo,10,1597,15970
+2024-02-02,Bengaluru,Groceries,Bed,14,1140,15960
+2024-02-17,Mumbai,Groceries,Laptop,12,827,9924
+2024-03-02,Chennai,Groceries,T-Shirt,19,1215,23085
+2024-08-03,Hyderabad,Apparel,T-Shirt,7,582,4074
+2024-10-19,Hyderabad,Home,Jeans,15,642,9630
+2024-04-08,Delhi,Apparel,Phone,16,1328,21248
+2024-06-20,Chennai,Home,T-Shirt,8,1625,13000
+2024-12-25,Chennai,Electronics,Oil,10,1030,10300
+2024-08-01,Hyderabad,Personal Care,Soap,4,499,1996
+2024-02-04,Bengaluru,Home,Rice,19,1330,25270
+2024-08-14,Delhi,Groceries,Rice,19,718,13642
+2024-04-10,Chennai,Apparel,Soap,15,1269,19035
+2024-05-10,Hyderabad,Electronics,Sofa,14,978,13692
+2024-09-13,Chennai,Groceries,Oil,1,200,200
+2024-01-05,Delhi,Electronics,Laptop,16,979,15664
+2024-08-05,Delhi,Personal Care,T-Shirt,10,929,9290
+2024-09-11,Mumbai,Apparel,Sofa,19,1364,25916
+2024-12-24,Hyderabad,Apparel,Oil,3,858,2574
+2024-10-09,Delhi,Personal Care,Jeans,5,262,1310
+2024-07-25,Mumbai,Apparel,Rice,9,1296,11664
+2024-01-15,Mumbai,Home,Sofa,18,601,10818
+2024-12-11,Chennai,Electronics,Shampoo,11,646,7106
+2024-02-11,Chennai,Groceries,T-Shirt,16,1407,22512
+2024-06-27,Mumbai,Personal Care,T-Shirt,2,1482,2964
+2024-03-03,Chennai,Home,Laptop,12,480,5760
+2024-12-17,Delhi,Groceries,Phone,6,969,5814
+2024-08-18,Bengaluru,Groceries,Shampoo,11,1004,11044
+2024-08-28,Delhi,Personal Care,T-Shirt,8,1656,13248
+2024-02-21,Mumbai,Home,Bed,12,1943,23316
+2024-04-05,Mumbai,Groceries,Shampoo,2,1286,2572
+2024-08-09,Delhi,Groceries,T-Shirt,9,1101,9909
+2024-08-18,Chennai,Home,Soap,15,708,10620
+2024-08-24,Chennai,Apparel,Shampoo,2,406,812
+2024-05-22,Mumbai,Groceries,Oil,1,1462,1462
+2024-06-19,Hyderabad,Electronics,Shampoo,10,154,1540
+2024-01-29,Chennai,Home,Laptop,2,1082,2164
+2024-02-05,Delhi,Groceries,Jeans,12,432,5184
+2024-01-13,Chennai,Personal Care,Jeans,8,226,1808
+2024-06-08,Delhi,Electronics,Jeans,5,804,4020
+2024-11-22,Mumbai,Groceries,Oil,1,342,342
+2024-07-05,Chennai,Electronics,Sofa,15,1984,29760
+2024-08-30,Delhi,Electronics,Jeans,6,699,4194
+2024-03-26,Mumbai,Apparel,Rice,12,1971,23652
+2024-10-10,Hyderabad,Electronics,Oil,8,1532,12256
+2024-03-06,Delhi,Apparel,Sofa,13,602,7826
+2024-06-18,Hyderabad,Home,Rice,19,1850,35150
+2024-02-14,Hyderabad,Apparel,Rice,1,703,703
+2024-03-02,Bengaluru,Personal Care,Rice,11,402,4422
+2024-05-13,Chennai,Groceries,Bed,1,1587,1587
+2024-10-10,Delhi,Home,Laptop,8,334,2672
+2024-01-28,Hyderabad,Home,Laptop,5,1819,9095
+2024-04-17,Bengaluru,Personal Care,Oil,17,1161,19737
+2024-02-13,Mumbai,Apparel,Rice,8,238,1904
+2024-12-05,Delhi,Groceries,Soap,10,294,2940
+2024-10-12,Hyderabad,Apparel,Shampoo,2,1650,3300
+2024-11-26,Chennai,Electronics,Sofa,9,1892,17028
+2024-05-07,Bengaluru,Apparel,Laptop,3,746,2238
+2024-12-13,Hyderabad,Home,Jeans,18,100,1800
+2024-08-18,Chennai,Groceries,Oil,7,660,4620
+2024-07-08,Hyderabad,Apparel,Sofa,15,1219,18285
+2024-08-12,Delhi,Groceries,Oil,18,812,14616
+2024-10-09,Delhi,Groceries,Soap,3,512,1536
+2024-04-30,Delhi,Electronics,Bed,14,637,8918
+2024-04-25,Bengaluru,Electronics,Bed,2,1978,3956
+2024-08-20,Delhi,Home,Rice,14,528,7392
+2024-09-15,Chennai,Personal Care,Bed,11,334,3674
+2024-12-24,Hyderabad,Groceries,Oil,16,448,7168
+2024-07-16,Mumbai,Personal Care,Jeans,8,1879,15032
+2024-05-16,Chennai,Home,Rice,7,1993,13951
+2024-11-13,Chennai,Groceries,T-Shirt,11,1604,17644
+2024-06-13,Delhi,Groceries,Sofa,3,1962,5886
+2024-08-12,Bengaluru,Personal Care,Soap,17,495,8415
+2024-11-02,Hyderabad,Apparel,Rice,14,1474,20636
+2024-08-21,Bengaluru,Electronics,Oil,6,515,3090
+2024-06-20,Hyderabad,Apparel,Sofa,8,1015,8120
+2024-05-31,Hyderabad,Personal Care,Jeans,5,1174,5870
+2024-11-10,Bengaluru,Electronics,Phone,8,180,1440
+2024-06-08,Chennai,Apparel,Soap,2,135,270
+2024-04-05,Hyderabad,Electronics,Oil,15,1190,17850
+2024-08-20,Bengaluru,Groceries,Soap,12,740,8880
+2024-06-28,Hyderabad,Apparel,Laptop,17,981,16677
+2024-04-22,Mumbai,Electronics,Phone,1,1790,1790
+2024-11-13,Chennai,Electronics,Sofa,15,856,12840
+2024-02-21,Delhi,Electronics,Bed,14,722,10108
+2024-09-24,Hyderabad,Apparel,Oil,16,1803,28848
+2024-10-21,Mumbai,Home,Soap,9,1604,14436
+2024-04-22,Delhi,Apparel,Sofa,1,567,567
+2024-04-10,Delhi,Personal Care,Bed,17,1265,21505
+2024-04-22,Hyderabad,Apparel,Jeans,13,455,5915
+2024-03-21,Bengaluru,Electronics,Jeans,5,808,4040
+2024-07-05,Hyderabad,Groceries,Soap,10,1594,15940
+2024-04-22,Mumbai,Apparel,Rice,6,1744,10464
+2024-01-02,Delhi,Apparel,Laptop,19,1119,21261
+2024-05-09,Hyderabad,Electronics,Rice,13,1714,22282
+2024-08-07,Bengaluru,Groceries,Laptop,1,1001,1001
+2024-02-23,Hyderabad,Groceries,Oil,15,772,11580
+2024-12-08,Chennai,Personal Care,T-Shirt,14,538,7532
+2024-08-11,Bengaluru,Apparel,Soap,8,630,5040
+2024-08-12,Mumbai,Groceries,Shampoo,10,226,2260
+2024-05-05,Delhi,Groceries,Soap,9,304,2736
+2024-05-09,Hyderabad,Home,Phone,17,128,2176
+2024-02-22,Bengaluru,Home,Bed,9,544,4896
+2024-06-20,Chennai,Groceries,Phone,3,1065,3195
+2024-08-05,Bengaluru,Personal Care,Jeans,11,1842,20262
+2024-06-08,Chennai,Groceries,Laptop,12,563,6756
+2024-07-16,Mumbai,Electronics,Bed,10,1403,14030
+2024-09-03,Delhi,Apparel,Jeans,17,250,4250
+2024-11-19,Mumbai,Personal Care,Bed,17,339,5763
+2024-07-21,Hyderabad,Electronics,Rice,11,365,4015
+2024-07-02,Bengaluru,Personal Care,Jeans,4,1817,7268
+2024-05-02,Chennai,Electronics,Rice,7,1228,8596
+2024-09-11,Chennai,Apparel,Rice,14,1556,21784
+2024-10-20,Bengaluru,Apparel,Bed,7,1012,7084
+2024-10-06,Bengaluru,Home,Sofa,8,596,4768
+2024-11-20,Hyderabad,Electronics,Phone,1,1563,1563
+2024-04-07,Mumbai,Home,Jeans,4,1871,7484
+2024-07-16,Chennai,Electronics,Shampoo,12,784,9408
+2024-08-27,Hyderabad,Home,Sofa,3,257,771
+2024-05-23,Mumbai,Apparel,Phone,13,271,3523
+2024-04-06,Hyderabad,Personal Care,Jeans,6,593,3558
+2024-07-19,Chennai,Home,Laptop,11,1069,11759
+2024-05-03,Bengaluru,Electronics,Phone,4,1434,5736
+2024-07-05,Bengaluru,Electronics,Shampoo,16,1526,24416
+2024-11-21,Mumbai,Apparel,Soap,7,1792,12544
+2024-12-14,Delhi,Electronics,Oil,11,1893,20823
+2024-09-15,Mumbai,Groceries,Rice,1,775,775
+2024-05-27,Delhi,Personal Care,Oil,7,758,5306
+2024-09-08,Hyderabad,Home,Sofa,12,1002,12024
+2024-12-11,Hyderabad,Personal Care,Soap,7,765,5355
+2024-05-26,Chennai,Apparel,Rice,7,1586,11102
+2024-05-27,Delhi,Home,Jeans,10,466,4660
+2024-12-17,Chennai,Home,Sofa,16,649,10384
+2024-07-17,Bengaluru,Groceries,Shampoo,8,742,5936
+2024-11-03,Delhi,Apparel,Bed,9,1993,17937
+2024-05-07,Mumbai,Electronics,Jeans,9,354,3186
+2024-02-08,Bengaluru,Groceries,Phone,2,307,614
+2024-12-03,Bengaluru,Groceries,Bed,13,549,7137
+2024-12-25,Mumbai,Personal Care,Sofa,13,194,2522
+2024-05-08,Bengaluru,Personal Care,Phone,4,1983,7932
+2024-09-23,Delhi,Personal Care,Shampoo,12,938,11256
+2024-05-30,Chennai,Groceries,Oil,17,577,9809
+2024-10-24,Bengaluru,Electronics,Phone,2,782,1564
+2024-04-08,Delhi,Home,Oil,13,861,11193
+2024-09-19,Hyderabad,Personal Care,Rice,18,289,5202
+2024-09-08,Delhi,Electronics,Laptop,15,810,12150
+2024-05-23,Chennai,Apparel,T-Shirt,8,1607,12856
+2024-12-11,Delhi,Personal Care,Jeans,15,1856,27840
+2024-04-21,Mumbai,Home,T-Shirt,1,1659,1659
+2024-02-29,Chennai,Apparel,Rice,10,855,8550
+2024-01-02,Hyderabad,Apparel,Phone,12,1546,18552
+2024-10-30,Mumbai,Home,Rice,5,935,4675
+2024-09-10,Delhi,Personal Care,T-Shirt,9,1763,15867
+2024-05-19,Chennai,Groceries,T-Shirt,8,1728,13824
+2024-02-06,Hyderabad,Home,Jeans,16,1935,30960
+2024-06-08,Mumbai,Home,Bed,14,232,3248
+2024-01-09,Hyderabad,Home,Soap,13,154,2002
+2024-08-20,Delhi,Apparel,Rice,13,609,7917
+2024-04-08,Hyderabad,Electronics,Laptop,5,769,3845
+2024-05-26,Bengaluru,Groceries,Soap,16,1664,26624
+2024-10-30,Mumbai,Personal Care,Rice,11,509,5599
+2024-07-26,Hyderabad,Personal Care,Shampoo,5,1334,6670
+2024-05-10,Delhi,Electronics,Sofa,13,1789,23257
+2024-05-31,Delhi,Home,Sofa,11,1416,15576
+2024-02-23,Hyderabad,Groceries,T-Shirt,19,1086,20634
+2024-04-29,Delhi,Personal Care,Sofa,3,833,2499
+2024-06-09,Chennai,Personal Care,Oil,15,1238,18570
+2024-04-25,Chennai,Home,Laptop,7,1793,12551
+2024-03-15,Chennai,Electronics,Sofa,7,358,2506
+2024-04-22,Bengaluru,Groceries,Phone,6,1886,11316
+2024-04-13,Hyderabad,Electronics,Oil,3,1245,3735
+2024-12-05,Bengaluru,Electronics,Soap,13,398,5174
+2024-09-10,Delhi,Groceries,Oil,7,1898,13286
+2024-08-14,Bengaluru,Groceries,Rice,5,1504,7520
+2024-04-21,Delhi,Personal Care,T-Shirt,18,660,11880
+2024-04-08,Delhi,Personal Care,Jeans,8,1964,15712
+2024-06-01,Mumbai,Groceries,Jeans,17,1624,27608
+2024-12-14,Chennai,Apparel,Shampoo,1,396,396
+2024-12-03,Delhi,Personal Care,Laptop,14,461,6454
+2024-07-12,Mumbai,Apparel,Rice,17,688,11696
+2024-11-05,Chennai,Groceries,Jeans,10,1586,15860
+2024-06-11,Delhi,Personal Care,T-Shirt,12,1561,18732
+2024-07-26,Delhi,Electronics,Soap,16,226,3616
+2024-06-17,Bengaluru,Groceries,Jeans,14,296,4144
+2024-06-09,Bengaluru,Home,Phone,16,320,5120
+2024-03-08,Chennai,Apparel,Oil,8,1094,8752
+2024-10-15,Delhi,Groceries,Jeans,10,190,1900
+2024-10-03,Hyderabad,Groceries,Rice,17,510,8670
+2024-10-30,Bengaluru,Personal Care,Sofa,18,107,1926
+2024-05-14,Chennai,Personal Care,Sofa,16,643,10288
+2024-07-13,Delhi,Personal Care,Soap,17,567,9639
+2024-05-07,Delhi,Home,Sofa,16,419,6704
+2024-02-02,Hyderabad,Personal Care,Soap,19,1517,28823
+2024-06-24,Chennai,Groceries,Rice,8,368,2944
+2024-01-22,Delhi,Personal Care,Laptop,6,1314,7884
+2024-08-25,Bengaluru,Electronics,Sofa,6,1984,11904
+2024-06-06,Hyderabad,Personal Care,Shampoo,9,1798,16182
+2024-02-07,Chennai,Home,T-Shirt,4,160,640
+2024-08-17,Hyderabad,Electronics,Oil,12,1561,18732
+2024-12-30,Bengaluru,Groceries,Sofa,12,1387,16644
+2024-02-20,Chennai,Groceries,Soap,17,896,15232
+2024-09-20,Hyderabad,Apparel,Rice,15,1218,18270
+2024-10-09,Mumbai,Electronics,Sofa,9,652,5868
+2024-01-27,Bengaluru,Apparel,Jeans,7,1025,7175
+2024-08-13,Bengaluru,Electronics,Sofa,10,1593,15930
+2024-10-03,Bengaluru,Electronics,Soap,16,760,12160
+2024-10-12,Mumbai,Home,Phone,12,815,9780
+2024-04-06,Mumbai,Apparel,Phone,7,878,6146
+2024-10-10,Delhi,Home,Sofa,18,1637,29466
+2024-11-12,Hyderabad,Electronics,Oil,15,1813,27195
+2024-10-30,Delhi,Groceries,Rice,6,293,1758
+2024-05-26,Hyderabad,Electronics,Shampoo,12,581,6972
+2024-01-04,Mumbai,Home,Shampoo,11,1459,16049
+2024-02-04,Mumbai,Apparel,Sofa,3,1558,4674
+2024-07-10,Delhi,Apparel,Sofa,2,1319,2638
+2024-02-18,Chennai,Home,Phone,6,954,5724
+2024-01-17,Delhi,Apparel,Soap,5,1372,6860
+2024-06-20,Hyderabad,Personal Care,Oil,18,597,10746
+2024-08-07,Delhi,Groceries,Sofa,16,311,4976
+2024-06-06,Bengaluru,Groceries,Shampoo,8,764,6112
+2024-02-15,Hyderabad,Groceries,Rice,11,769,8459
+2024-01-06,Hyderabad,Apparel,Laptop,10,1589,15890
+2024-04-08,Chennai,Apparel,Jeans,12,1997,23964
+2024-08-20,Mumbai,Electronics,Sofa,6,1774,10644
+2024-02-06,Hyderabad,Electronics,Soap,5,320,1600
+2024-10-06,Mumbai,Groceries,Sofa,9,372,3348
+2024-12-14,Delhi,Personal Care,Soap,16,1277,20432
+2024-10-28,Bengaluru,Electronics,Oil,14,1372,19208
+2024-06-29,Chennai,Electronics,Laptop,8,378,3024
+2024-04-04,Mumbai,Apparel,T-Shirt,19,1563,29697
+2024-04-08,Hyderabad,Personal Care,Rice,14,915,12810
+2024-07-06,Mumbai,Groceries,Rice,7,375,2625
+2024-04-25,Hyderabad,Electronics,Soap,5,1104,5520
+2024-07-09,Mumbai,Personal Care,Phone,18,613,11034
+2024-09-09,Hyderabad,Personal Care,Soap,2,1211,2422
+2024-06-09,Delhi,Groceries,Phone,11,1922,21142
+2024-09-12,Hyderabad,Personal Care,Bed,8,1022,8176
+2024-11-18,Hyderabad,Personal Care,Shampoo,1,741,741
+2024-05-07,Bengaluru,Personal Care,Rice,12,604,7248
+2024-01-18,Hyderabad,Electronics,Oil,2,689,1378
+2024-10-07,Bengaluru,Groceries,Soap,18,871,15678
+2024-08-10,Chennai,Personal Care,Oil,7,1364,9548
+2024-02-23,Bengaluru,Personal Care,Laptop,17,1776,30192
+2024-02-27,Delhi,Electronics,Oil,14,839,11746
+2024-11-18,Bengaluru,Groceries,Sofa,7,774,5418
+2024-12-25,Chennai,Apparel,Shampoo,3,1359,4077
+2024-06-22,Delhi,Electronics,Sofa,6,1113,6678
+2024-10-06,Mumbai,Groceries,Jeans,2,227,454
+2024-04-23,Mumbai,Personal Care,Soap,17,602,10234
+2024-10-14,Bengaluru,Groceries,Rice,12,1323,15876
+2024-12-07,Bengaluru,Groceries,Soap,12,1001,12012
+2024-05-30,Chennai,Groceries,Shampoo,17,642,10914
+2024-05-06,Chennai,Apparel,T-Shirt,10,1625,16250
+2024-06-03,Hyderabad,Groceries,T-Shirt,3,1773,5319
+2024-09-29,Chennai,Apparel,Jeans,18,591,10638
+2024-04-13,Hyderabad,Personal Care,Shampoo,13,1144,14872
+2024-10-25,Delhi,Apparel,Bed,12,1357,16284
+2024-09-02,Bengaluru,Personal Care,Bed,17,813,13821
+2024-06-24,Delhi,Personal Care,Bed,4,890,3560
+2024-02-08,Chennai,Apparel,Rice,10,1766,17660
+2024-06-18,Delhi,Electronics,Rice,11,515,5665
+2024-09-03,Delhi,Home,Bed,6,247,1482
+2024-01-26,Delhi,Groceries,T-Shirt,6,1069,6414
+2024-12-20,Chennai,Home,Shampoo,9,128,1152
+2024-11-01,Delhi,Groceries,Oil,15,1484,22260
+2024-01-13,Hyderabad,Groceries,Shampoo,2,407,814
+2024-11-11,Chennai,Personal Care,Bed,4,261,1044
+2024-11-08,Delhi,Groceries,Shampoo,5,968,4840
+2024-02-05,Chennai,Groceries,Laptop,17,951,16167
+2024-06-21,Mumbai,Apparel,Rice,8,160,1280
+2024-01-20,Hyderabad,Home,Rice,8,224,1792
+2024-11-16,Delhi,Apparel,T-Shirt,12,1579,18948
+2024-09-20,Mumbai,Groceries,Oil,8,1194,9552
+2024-05-21,Mumbai,Personal Care,Bed,19,937,17803
+2024-05-22,Chennai,Apparel,Soap,3,1999,5997
+2024-04-01,Mumbai,Apparel,T-Shirt,18,565,10170
+2024-12-19,Hyderabad,Electronics,T-Shirt,19,342,6498
+2024-11-17,Hyderabad,Groceries,Oil,19,1613,30647
+2024-10-14,Bengaluru,Personal Care,Sofa,15,1884,28260
+2024-08-02,Hyderabad,Apparel,Bed,6,1344,8064
+2024-12-07,Mumbai,Apparel,Soap,16,572,9152
+2024-02-20,Hyderabad,Personal Care,Rice,8,1058,8464
+2024-06-01,Chennai,Groceries,Oil,16,632,10112
+2024-07-04,Bengaluru,Electronics,Soap,18,593,10674
+2024-03-03,Mumbai,Apparel,Laptop,16,998,15968
+2024-07-08,Bengaluru,Electronics,T-Shirt,11,181,1991
+2024-05-04,Mumbai,Home,Oil,7,955,6685
+2024-05-29,Chennai,Groceries,Rice,17,978,16626
+2024-11-09,Bengaluru,Home,Shampoo,17,1645,27965
+2024-02-27,Delhi,Home,Rice,12,1022,12264
+2024-12-07,Mumbai,Home,Laptop,13,111,1443
+2024-10-31,Delhi,Groceries,Oil,10,1386,13860
+2024-06-28,Bengaluru,Groceries,Laptop,7,1780,12460
+2024-06-18,Delhi,Personal Care,Bed,14,548,7672
+2024-11-21,Delhi,Electronics,Bed,1,1315,1315
+2024-09-27,Bengaluru,Electronics,Shampoo,17,861,14637
+2024-02-23,Chennai,Personal Care,T-Shirt,4,1237,4948
+2024-04-10,Delhi,Personal Care,Sofa,5,125,625
+2024-09-20,Delhi,Home,Phone,7,1906,13342
+2024-02-22,Chennai,Personal Care,Soap,10,1622,16220
+2024-02-29,Delhi,Apparel,Laptop,17,607,10319
+2024-04-17,Delhi,Electronics,Soap,7,1668,11676
+2024-01-05,Delhi,Personal Care,Shampoo,1,161,161
+2024-04-12,Hyderabad,Apparel,Soap,7,328,2296
+2024-07-14,Chennai,Apparel,Soap,11,1938,21318
+2024-09-18,Delhi,Apparel,Rice,9,706,6354
+2024-12-30,Chennai,Apparel,Oil,12,1158,13896
+2024-12-15,Mumbai,Home,T-Shirt,3,1828,5484
+2024-02-16,Mumbai,Apparel,Phone,4,1579,6316
+2024-12-20,Delhi,Home,Oil,4,1711,6844
+2024-11-06,Chennai,Home,Rice,13,990,12870
+2024-11-03,Chennai,Apparel,Soap,19,1625,30875
+2024-05-23,Chennai,Electronics,Phone,10,860,8600
+2024-09-25,Hyderabad,Apparel,Rice,5,694,3470
+2024-05-03,Mumbai,Apparel,Rice,7,1148,8036
+2024-04-15,Chennai,Apparel,Rice,16,1692,27072
+2024-06-06,Chennai,Electronics,Bed,1,1155,1155
+2024-05-26,Hyderabad,Groceries,Phone,12,1954,23448
+2024-05-24,Hyderabad,Groceries,Rice,2,1135,2270
+2024-04-29,Chennai,Home,Sofa,7,1442,10094
+2024-11-14,Bengaluru,Home,Soap,11,1968,21648
+2024-10-01,Chennai,Electronics,Phone,13,1727,22451
+2024-04-01,Chennai,Personal Care,Bed,2,100,200
+2024-02-27,Hyderabad,Groceries,Laptop,7,1558,10906
+2024-12-11,Hyderabad,Home,Laptop,15,1961,29415
+2024-08-16,Chennai,Groceries,T-Shirt,11,1259,13849
+2024-04-26,Chennai,Electronics,Jeans,2,1319,2638
+2024-11-13,Chennai,Electronics,Sofa,7,232,1624
+2024-10-05,Hyderabad,Personal Care,Laptop,4,185,740
+2024-05-06,Chennai,Personal Care,Bed,11,1599,17589
+2024-05-08,Chennai,Electronics,Jeans,2,1930,3860
+2024-02-27,Delhi,Home,Rice,16,1914,30624
+2024-05-01,Bengaluru,Groceries,Rice,7,1447,10129
+2024-01-01,Mumbai,Apparel,Shampoo,13,1303,16939
+2024-08-26,Bengaluru,Personal Care,Soap,5,615,3075
+2024-10-16,Delhi,Apparel,Jeans,17,1761,29937
+2024-04-05,Mumbai,Home,Soap,12,274,3288
+2024-05-05,Chennai,Personal Care,Bed,19,862,16378
+2024-04-27,Delhi,Apparel,Sofa,7,1144,8008
+2024-02-17,Chennai,Home,Jeans,6,1096,6576
+2024-03-29,Hyderabad,Groceries,Laptop,8,1228,9824
+2024-08-24,Delhi,Home,Sofa,13,677,8801
+2024-09-28,Hyderabad,Personal Care,Shampoo,5,1566,7830
+2024-07-07,Delhi,Electronics,Soap,2,1898,3796
+2024-07-10,Delhi,Groceries,Soap,9,148,1332
+2024-03-09,Hyderabad,Apparel,Sofa,11,627,6897
+2024-10-04,Mumbai,Personal Care,Rice,6,244,1464
+2024-12-14,Bengaluru,Electronics,Soap,7,1463,10241
+2024-09-03,Chennai,Home,Shampoo,7,861,6027
+2024-03-16,Delhi,Electronics,Laptop,19,1978,37582
+2024-06-02,Chennai,Personal Care,Phone,6,1477,8862
+2024-05-23,Hyderabad,Personal Care,Laptop,11,1198,13178
+2024-03-26,Chennai,Electronics,Laptop,11,1925,21175
+2024-07-03,Hyderabad,Home,Soap,7,1028,7196
+2024-10-11,Chennai,Electronics,Oil,2,893,1786
+2024-08-07,Bengaluru,Personal Care,Rice,19,1701,32319
+2024-03-09,Bengaluru,Personal Care,Soap,4,1760,7040
+2024-02-16,Bengaluru,Apparel,Rice,6,418,2508
+2024-04-03,Bengaluru,Apparel,Bed,17,1210,20570
+2024-08-25,Bengaluru,Groceries,Oil,5,1676,8380
+2024-07-22,Bengaluru,Personal Care,Soap,7,797,5579
+2024-08-05,Hyderabad,Apparel,T-Shirt,9,1989,17901
+2024-12-06,Delhi,Electronics,Laptop,1,946,946
+2024-02-08,Chennai,Home,Bed,1,1901,1901
+2024-04-09,Bengaluru,Electronics,Oil,19,882,16758
+2024-10-15,Hyderabad,Home,Soap,6,141,846
+2024-09-10,Hyderabad,Apparel,Shampoo,18,1216,21888
+2024-08-09,Hyderabad,Groceries,Sofa,10,1820,18200
+2024-12-22,Delhi,Electronics,Sofa,11,1850,20350
+2024-01-23,Chennai,Electronics,Rice,1,1630,1630
+2024-09-06,Delhi,Electronics,Oil,1,628,628
+2024-01-10,Mumbai,Home,Laptop,13,1388,18044
+2024-09-02,Hyderabad,Apparel,Laptop,5,1749,8745
+2024-11-20,Mumbai,Electronics,Phone,1,391,391
+2024-04-09,Bengaluru,Electronics,Sofa,3,1068,3204
+2024-10-16,Bengaluru,Groceries,Bed,18,1587,28566
+2024-06-28,Delhi,Groceries,Oil,9,1927,17343
+2024-08-10,Chennai,Apparel,Laptop,14,1683,23562
+2024-09-06,Mumbai,Apparel,Phone,17,1942,33014
+2024-05-26,Chennai,Personal Care,Oil,14,196,2744
+2024-04-05,Delhi,Groceries,Jeans,4,1218,4872
+2024-09-13,Bengaluru,Personal Care,Laptop,5,1449,7245
+2024-11-20,Chennai,Home,Jeans,17,173,2941
+2024-01-04,Chennai,Personal Care,Oil,2,1459,2918
+2024-01-16,Bengaluru,Electronics,Laptop,5,1191,5955
+2024-10-06,Mumbai,Personal Care,Jeans,4,857,3428
+2024-12-01,Bengaluru,Apparel,T-Shirt,4,1200,4800
+2024-09-03,Chennai,Home,Phone,6,307,1842
+2024-09-14,Mumbai,Electronics,Bed,13,1889,24557
+2024-06-08,Mumbai,Personal Care,Sofa,5,1344,6720
+2024-12-05,Bengaluru,Home,Phone,7,1385,9695
+2024-05-31,Chennai,Home,Jeans,1,509,509
+2024-06-26,Delhi,Electronics,Laptop,14,430,6020
+2024-06-11,Chennai,Personal Care,T-Shirt,4,443,1772
+2024-02-02,Hyderabad,Home,T-Shirt,17,1088,18496
+2024-06-27,Delhi,Home,Sofa,14,870,12180
+2024-04-10,Mumbai,Groceries,T-Shirt,16,1943,31088
+2024-09-24,Delhi,Home,Phone,14,173,2422
+2024-11-18,Mumbai,Groceries,Soap,16,1760,28160
+2024-03-05,Mumbai,Personal Care,T-Shirt,8,1823,14584
+2024-06-16,Delhi,Personal Care,Sofa,3,353,1059
+2024-11-25,Mumbai,Personal Care,T-Shirt,19,1058,20102
+2024-02-12,Mumbai,Apparel,T-Shirt,1,1956,1956
+2024-02-13,Hyderabad,Personal Care,Shampoo,2,919,1838
+2024-10-11,Chennai,Home,Phone,15,1870,28050
+2024-01-12,Chennai,Electronics,Jeans,10,1085,10850
+2024-04-04,Hyderabad,Groceries,Rice,18,1885,33930
+2024-10-28,Delhi,Apparel,Soap,14,431,6034
+2024-09-09,Bengaluru,Personal Care,T-Shirt,17,1521,25857
+2024-08-29,Bengaluru,Personal Care,Bed,13,1468,19084
+2024-02-04,Bengaluru,Electronics,T-Shirt,1,1707,1707
+2024-08-02,Hyderabad,Electronics,Shampoo,5,846,4230
+2024-12-02,Hyderabad,Apparel,Jeans,13,935,12155
+2024-03-30,Mumbai,Groceries,Bed,14,1791,25074
+2024-09-20,Bengaluru,Personal Care,Soap,3,554,1662
+2024-04-02,Delhi,Apparel,Bed,15,1238,18570
+2024-03-30,Delhi,Home,Phone,19,412,7828
+2024-04-24,Bengaluru,Home,Sofa,17,1117,18989
+2024-04-14,Bengaluru,Apparel,Sofa,3,327,981
+2024-07-14,Bengaluru,Personal Care,Soap,16,933,14928
+2024-11-09,Hyderabad,Apparel,Jeans,14,957,13398
+2024-04-23,Hyderabad,Personal Care,Sofa,12,1368,16416
+2024-03-15,Hyderabad,Electronics,Oil,12,917,11004
+2024-08-04,Chennai,Apparel,Shampoo,11,1649,18139
+2024-10-03,Delhi,Personal Care,Soap,17,1117,18989
+2024-09-05,Delhi,Apparel,Soap,8,627,5016
+2024-06-12,Mumbai,Apparel,Rice,17,1049,17833
+2024-12-22,Hyderabad,Personal Care,Rice,11,526,5786
+2024-07-10,Chennai,Personal Care,Phone,2,141,282
+2024-08-14,Chennai,Groceries,Phone,10,564,5640
+2024-06-25,Delhi,Apparel,Rice,10,1745,17450
+2024-04-08,Hyderabad,Home,Sofa,11,377,4147
+2024-02-05,Mumbai,Apparel,Laptop,6,935,5610
+2024-04-05,Hyderabad,Apparel,Soap,4,118,472
+2024-05-31,Bengaluru,Personal Care,Oil,12,165,1980
+2024-05-30,Hyderabad,Apparel,Soap,11,266,2926
+2024-07-08,Bengaluru,Apparel,T-Shirt,13,1708,22204
+2024-08-11,Bengaluru,Home,Jeans,5,1119,5595
+2024-02-06,Mumbai,Personal Care,Shampoo,6,502,3012
+2024-09-24,Delhi,Apparel,Laptop,1,1945,1945
+2024-07-01,Hyderabad,Electronics,Oil,6,508,3048
+2024-01-13,Bengaluru,Groceries,T-Shirt,18,211,3798
+2024-10-05,Hyderabad,Home,Phone,9,1397,12573
+2024-08-04,Delhi,Apparel,Oil,15,1530,22950
+2024-12-20,Delhi,Electronics,Rice,8,1496,11968
+2024-12-26,Chennai,Apparel,Soap,19,696,13224
+2024-10-12,Delhi,Apparel,Oil,16,750,12000
+2024-09-29,Mumbai,Personal Care,Jeans,6,1162,6972
+2024-03-02,Bengaluru,Personal Care,Bed,6,204,1224
+2024-03-24,Chennai,Personal Care,Phone,3,423,1269
+2024-08-04,Mumbai,Electronics,Shampoo,10,1916,19160
+2024-12-07,Hyderabad,Apparel,Shampoo,1,1091,1091
+2024-07-05,Bengaluru,Groceries,Oil,14,1537,21518
+2024-01-19,Delhi,Home,Bed,4,528,2112
+2024-06-25,Bengaluru,Personal Care,Soap,12,734,8808
+2024-04-09,Hyderabad,Personal Care,T-Shirt,6,829,4974
+2024-08-20,Chennai,Apparel,Laptop,11,988,10868
+2024-03-16,Chennai,Apparel,Soap,12,1184,14208
+2024-09-21,Chennai,Electronics,T-Shirt,10,1735,17350
+2024-10-10,Delhi,Electronics,Laptop,18,1430,25740
+2024-07-24,Mumbai,Personal Care,Bed,7,1477,10339
+2024-08-10,Mumbai,Apparel,Laptop,7,492,3444
+2024-02-21,Bengaluru,Groceries,Soap,11,303,3333
+2024-12-04,Delhi,Home,Jeans,4,357,1428
+2024-05-23,Chennai,Apparel,Oil,1,585,585
+2024-03-09,Chennai,Apparel,T-Shirt,13,1640,21320
+2024-04-08,Hyderabad,Electronics,Jeans,18,545,9810
+2024-01-25,Hyderabad,Home,T-Shirt,9,1832,16488
+2024-02-22,Chennai,Personal Care,Oil,9,1303,11727
+2024-05-30,Chennai,Apparel,Sofa,9,1123,10107
+2024-05-23,Delhi,Personal Care,Laptop,10,441,4410
+2024-02-26,Mumbai,Apparel,Bed,2,232,464
+2024-02-08,Hyderabad,Personal Care,Sofa,6,542,3252
+2024-04-18,Mumbai,Home,Sofa,15,1959,29385
+2024-06-29,Delhi,Electronics,Shampoo,3,352,1056
+2024-02-11,Chennai,Home,Rice,11,364,4004
+2024-07-04,Mumbai,Groceries,Soap,6,192,1152
+2024-08-10,Chennai,Electronics,Jeans,3,1785,5355
+2024-05-01,Chennai,Home,Jeans,11,1534,16874
+2024-05-12,Bengaluru,Groceries,Jeans,15,237,3555
+2024-06-11,Mumbai,Apparel,Jeans,13,1331,17303
+2024-08-02,Mumbai,Apparel,Soap,10,1101,11010
+2024-08-08,Chennai,Personal Care,Sofa,6,1760,10560
+2024-08-22,Delhi,Electronics,Soap,15,1869,28035
+2024-11-26,Bengaluru,Apparel,Jeans,18,1696,30528
+2024-05-25,Chennai,Electronics,Rice,18,406,7308
+2024-08-26,Hyderabad,Apparel,Phone,7,365,2555
+2024-03-16,Hyderabad,Personal Care,Oil,15,745,11175
+2024-01-09,Bengaluru,Home,Jeans,18,417,7506
+2024-03-14,Delhi,Personal Care,Bed,18,1236,22248
+2024-09-09,Chennai,Groceries,Phone,9,1000,9000
+2024-08-17,Mumbai,Apparel,Soap,2,1501,3002
+2024-01-07,Bengaluru,Groceries,Bed,8,553,4424
+2024-06-22,Delhi,Groceries,Bed,2,290,580
+2024-05-20,Mumbai,Electronics,T-Shirt,11,1563,17193
+2024-06-16,Hyderabad,Apparel,Bed,7,1310,9170
+2024-06-18,Hyderabad,Groceries,Jeans,6,930,5580
+2024-10-09,Mumbai,Home,T-Shirt,10,1490,14900
+2024-05-01,Bengaluru,Groceries,Shampoo,5,1212,6060
+2024-07-12,Hyderabad,Home,Sofa,11,286,3146
+2024-01-05,Chennai,Electronics,Bed,1,918,918
+2024-01-29,Mumbai,Groceries,Rice,2,1120,2240
+2024-06-13,Mumbai,Personal Care,Oil,1,231,231
+2024-12-04,Hyderabad,Electronics,Bed,19,971,18449
+2024-05-15,Bengaluru,Home,Shampoo,2,734,1468
+2024-12-30,Chennai,Electronics,Laptop,4,1683,6732
+2024-11-16,Bengaluru,Groceries,Soap,12,1923,23076
+2024-12-07,Delhi,Apparel,Soap,18,1499,26982
+2024-05-24,Delhi,Apparel,Shampoo,1,790,790
+2024-11-22,Hyderabad,Home,Laptop,1,791,791
+2024-08-04,Hyderabad,Home,Soap,14,1222,17108
+2024-10-27,Hyderabad,Apparel,Soap,4,1965,7860
+2024-05-11,Delhi,Home,Soap,5,1157,5785
+2024-10-18,Bengaluru,Electronics,Shampoo,11,681,7491
+2024-03-10,Bengaluru,Personal Care,Sofa,13,270,3510
+2024-09-08,Hyderabad,Personal Care,Oil,16,1489,23824
+2024-10-01,Chennai,Electronics,Shampoo,13,883,11479
+2024-12-29,Bengaluru,Personal Care,Laptop,2,1182,2364
+2024-06-30,Delhi,Groceries,Bed,16,280,4480
+2024-06-15,Mumbai,Electronics,Sofa,6,118,708
+2024-03-31,Mumbai,Home,Sofa,14,1349,18886
+2024-07-20,Mumbai,Electronics,Bed,1,1596,1596
+2024-12-11,Chennai,Apparel,Rice,17,1218,20706
+2024-01-19,Hyderabad,Home,T-Shirt,11,980,10780
+2024-02-08,Delhi,Apparel,Oil,19,1420,26980
+2024-05-05,Chennai,Home,Oil,3,1716,5148
+2024-06-21,Delhi,Personal Care,Rice,11,274,3014
+2024-05-20,Delhi,Electronics,T-Shirt,5,1345,6725
+2024-08-29,Hyderabad,Groceries,Oil,17,1738,29546
+2024-08-07,Mumbai,Home,Laptop,7,153,1071
+2024-05-05,Hyderabad,Home,Phone,10,794,7940
+2024-02-27,Chennai,Apparel,Phone,11,962,10582
+2024-05-27,Chennai,Personal Care,Oil,3,1526,4578
+2024-11-12,Chennai,Apparel,Jeans,10,1441,14410
+2024-12-26,Hyderabad,Apparel,Oil,10,1990,19900
+2024-01-01,Delhi,Personal Care,Bed,14,448,6272
+2024-12-13,Delhi,Groceries,Bed,12,542,6504
+2024-07-08,Bengaluru,Apparel,T-Shirt,15,932,13980
+2024-07-09,Chennai,Apparel,Soap,10,679,6790
+2024-11-07,Delhi,Home,Sofa,10,1663,16630
+2024-04-26,Bengaluru,Personal Care,Laptop,19,1909,36271
+2024-05-13,Delhi,Electronics,Rice,1,381,381
+2024-02-27,Chennai,Groceries,Oil,10,459,4590
+2024-02-13,Mumbai,Groceries,Soap,2,1014,2028
+2024-06-21,Chennai,Personal Care,Soap,17,922,15674
+2024-06-08,Hyderabad,Home,Laptop,7,1754,12278
+2024-06-21,Delhi,Home,Rice,7,991,6937
+2024-11-12,Delhi,Personal Care,Bed,9,1052,9468
+2024-10-29,Hyderabad,Home,Shampoo,2,1769,3538
+2024-05-28,Hyderabad,Groceries,Laptop,14,740,10360
+2024-03-20,Mumbai,Groceries,Soap,17,1131,19227
+2024-07-31,Delhi,Electronics,Phone,1,662,662
+2024-07-21,Delhi,Personal Care,Oil,9,590,5310
+2024-09-08,Mumbai,Apparel,T-Shirt,19,440,8360
+2024-08-16,Bengaluru,Apparel,Phone,4,571,2284
+2024-06-12,Mumbai,Electronics,Soap,8,1916,15328
+2024-08-14,Chennai,Electronics,Sofa,13,1810,23530
+2024-05-26,Delhi,Home,Jeans,4,1818,7272
+2024-01-20,Hyderabad,Electronics,Rice,9,1827,16443
+2024-02-16,Chennai,Electronics,Bed,9,348,3132
+2024-08-20,Delhi,Apparel,Oil,18,334,6012
+2024-10-31,Mumbai,Home,T-Shirt,12,1206,14472
+2024-01-14,Chennai,Electronics,Shampoo,10,1216,12160
+2024-05-22,Delhi,Electronics,Bed,11,1517,16687
+2024-01-01,Bengaluru,Home,Oil,7,923,6461
+2024-02-23,Bengaluru,Personal Care,Shampoo,9,1391,12519
+2024-09-15,Hyderabad,Home,T-Shirt,6,1540,9240
+2024-05-23,Delhi,Apparel,Soap,19,731,13889
+2024-01-12,Bengaluru,Personal Care,Jeans,16,1706,27296
+2024-11-25,Mumbai,Groceries,Phone,15,628,9420
+2024-08-11,Delhi,Home,Phone,7,1376,9632
+2024-09-28,Mumbai,Apparel,Soap,16,221,3536
+2024-12-23,Mumbai,Personal Care,Bed,5,991,4955
+2024-06-04,Bengaluru,Home,Soap,16,109,1744
+2024-01-08,Delhi,Electronics,Soap,1,1922,1922
+2024-05-01,Chennai,Home,Oil,19,1439,27341
+2024-12-13,Bengaluru,Groceries,Oil,5,937,4685
+2024-06-12,Bengaluru,Home,T-Shirt,7,1396,9772
+2024-03-30,Delhi,Personal Care,Jeans,19,1429,27151
+2024-05-15,Delhi,Personal Care,Oil,5,1928,9640
+2024-07-04,Mumbai,Home,T-Shirt,17,1333,22661
+2024-11-11,Delhi,Personal Care,Sofa,8,1853,14824
+2024-06-26,Mumbai,Electronics,Soap,1,852,852
+2024-01-28,Bengaluru,Home,Soap,2,985,1970
+2024-08-07,Hyderabad,Electronics,Bed,15,563,8445
+2024-12-22,Chennai,Electronics,Sofa,18,811,14598
+2024-02-10,Bengaluru,Apparel,Bed,11,827,9097
+2024-08-15,Delhi,Home,Shampoo,10,816,8160
+2024-07-10,Chennai,Personal Care,T-Shirt,4,1539,6156
+2024-05-24,Hyderabad,Electronics,T-Shirt,5,1339,6695
+2024-07-19,Hyderabad,Apparel,Soap,4,179,716
+2024-07-30,Mumbai,Home,Laptop,13,1902,24726
+2024-08-07,Chennai,Home,Shampoo,13,579,7527
+2024-08-27,Mumbai,Groceries,T-Shirt,18,1001,18018
+2024-02-15,Bengaluru,Groceries,Oil,2,990,1980
+2024-02-04,Chennai,Electronics,Soap,16,1670,26720
+2024-09-09,Bengaluru,Groceries,Bed,1,1924,1924
+2024-03-22,Mumbai,Electronics,Sofa,19,117,2223
+2024-09-12,Chennai,Personal Care,Bed,9,1288,11592
+2024-07-15,Mumbai,Electronics,Phone,3,1648,4944
+2024-10-29,Chennai,Groceries,Laptop,7,301,2107
+2024-01-10,Mumbai,Personal Care,T-Shirt,10,840,8400
+2024-11-07,Hyderabad,Groceries,Jeans,1,1469,1469
+2024-10-12,Mumbai,Electronics,Rice,10,1489,14890
+2024-08-29,Hyderabad,Apparel,Laptop,9,1571,14139
+2024-09-07,Mumbai,Home,Soap,15,1636,24540
+2024-12-30,Chennai,Groceries,T-Shirt,15,418,6270
+2024-01-05,Chennai,Electronics,Sofa,3,316,948
+2024-04-28,Chennai,Personal Care,T-Shirt,5,1157,5785
+2024-10-15,Delhi,Groceries,Rice,9,1994,17946
+2024-03-05,Bengaluru,Groceries,Sofa,9,365,3285
+2024-05-25,Chennai,Home,Bed,7,1763,12341
+2024-08-11,Hyderabad,Electronics,Sofa,12,823,9876
+2024-08-26,Chennai,Apparel,Laptop,9,874,7866
+2024-06-25,Delhi,Personal Care,Bed,6,1947,11682
+2024-09-23,Hyderabad,Electronics,T-Shirt,2,1203,2406
+2024-12-06,Delhi,Personal Care,Soap,9,1800,16200
+2024-10-08,Hyderabad,Groceries,Shampoo,17,512,8704
+2024-03-03,Mumbai,Home,Soap,1,1375,1375
+2024-08-04,Bengaluru,Home,T-Shirt,19,1135,21565
+2024-12-07,Bengaluru,Apparel,Rice,6,500,3000
+2024-11-10,Delhi,Home,Shampoo,5,1939,9695
+2024-10-09,Bengaluru,Groceries,T-Shirt,2,823,1646
+2024-06-25,Delhi,Apparel,Jeans,9,381,3429
+2024-04-07,Delhi,Electronics,Laptop,14,1235,17290
+2024-04-14,Delhi,Home,Jeans,4,822,3288
+2024-04-08,Bengaluru,Apparel,Bed,4,1501,6004
+2024-11-06,Delhi,Groceries,Phone,15,850,12750
+2024-01-06,Bengaluru,Personal Care,T-Shirt,8,367,2936
+2024-07-15,Delhi,Personal Care,Oil,4,397,1588
+2024-12-16,Chennai,Groceries,Oil,16,1440,23040
+2024-05-12,Delhi,Groceries,Sofa,4,669,2676
+2024-12-23,Hyderabad,Personal Care,Soap,16,608,9728
+2024-09-15,Delhi,Apparel,Soap,12,645,7740
+2024-01-23,Mumbai,Personal Care,Soap,16,874,13984
+2024-02-22,Delhi,Groceries,Jeans,19,464,8816
+2024-06-13,Hyderabad,Home,Laptop,8,646,5168
+2024-07-20,Hyderabad,Electronics,T-Shirt,6,370,2220
+2024-03-23,Bengaluru,Home,Rice,10,1597,15970
+2024-05-24,Chennai,Home,Sofa,5,838,4190
+2024-03-25,Delhi,Groceries,Bed,18,636,11448
+2024-03-18,Bengaluru,Personal Care,Shampoo,10,1357,13570
+2024-01-01,Chennai,Apparel,Bed,10,158,1580
+2024-02-20,Delhi,Home,T-Shirt,7,1374,9618
+2024-06-21,Mumbai,Personal Care,Phone,18,1970,35460
+2024-07-23,Delhi,Apparel,Soap,1,185,185
+2024-09-16,Hyderabad,Home,Shampoo,7,862,6034
+2024-10-14,Hyderabad,Apparel,Jeans,1,489,489
+2024-02-03,Mumbai,Personal Care,T-Shirt,15,1303,19545
+2024-12-13,Bengaluru,Electronics,Phone,4,818,3272
+2024-04-04,Chennai,Personal Care,Jeans,10,955,9550
+2024-03-12,Delhi,Groceries,Phone,9,248,2232
+2024-02-08,Hyderabad,Apparel,Soap,2,682,1364
+2024-06-02,Bengaluru,Electronics,Jeans,14,220,3080
+2024-09-06,Mumbai,Apparel,Laptop,16,864,13824
+2024-06-10,Hyderabad,Apparel,Oil,1,704,704
+2024-04-27,Mumbai,Home,Bed,2,355,710
+2024-09-15,Delhi,Groceries,Laptop,7,865,6055
+2024-11-01,Chennai,Apparel,Shampoo,10,963,9630
+2024-09-24,Hyderabad,Personal Care,Sofa,1,899,899
+2024-02-23,Hyderabad,Personal Care,Oil,13,1432,18616
+2024-08-23,Delhi,Home,Laptop,1,158,158
+2024-08-09,Bengaluru,Groceries,T-Shirt,5,1121,5605
+2024-09-07,Chennai,Groceries,Phone,16,1192,19072
+2024-11-08,Hyderabad,Personal Care,Shampoo,15,1569,23535
+2024-04-21,Chennai,Electronics,T-Shirt,17,487,8279
+2024-09-11,Hyderabad,Home,Oil,16,1209,19344
+2024-10-29,Chennai,Home,Phone,13,885,11505
+2024-07-25,Mumbai,Personal Care,Shampoo,11,1350,14850
+2024-08-16,Hyderabad,Personal Care,Sofa,17,692,11764
+2024-12-06,Chennai,Electronics,Oil,17,1749,29733
+2024-03-06,Bengaluru,Electronics,Shampoo,2,1307,2614
+2024-03-15,Mumbai,Groceries,Laptop,13,1915,24895
+2024-04-12,Mumbai,Home,Shampoo,14,1445,20230
+2024-07-10,Bengaluru,Home,Oil,11,1008,11088
+2024-09-08,Chennai,Personal Care,Soap,10,1441,14410
+2024-08-13,Delhi,Groceries,Laptop,3,665,1995
+2024-10-20,Bengaluru,Home,T-Shirt,17,498,8466
+2024-11-01,Chennai,Groceries,Oil,15,1832,27480
+2024-04-07,Bengaluru,Groceries,Soap,9,998,8982
+2024-12-03,Bengaluru,Personal Care,Rice,10,1416,14160
+2024-10-12,Hyderabad,Groceries,Sofa,8,392,3136
+2024-11-30,Chennai,Electronics,Soap,13,584,7592
+2024-12-12,Delhi,Electronics,Rice,18,1570,28260
+2024-11-03,Hyderabad,Apparel,Bed,5,902,4510
+2024-09-05,Bengaluru,Personal Care,Phone,6,1815,10890
+2024-06-14,Bengaluru,Apparel,Soap,17,1535,26095
+2024-11-30,Bengaluru,Electronics,Jeans,11,1631,17941
+2024-01-30,Chennai,Apparel,Sofa,16,1857,29712
+2024-09-03,Chennai,Personal Care,Soap,9,1909,17181
+2024-04-15,Hyderabad,Personal Care,Rice,2,989,1978
+2024-02-20,Delhi,Groceries,Jeans,5,343,1715
+2024-03-21,Hyderabad,Home,Sofa,1,1543,1543
+2024-05-12,Mumbai,Groceries,Jeans,4,1059,4236
+2024-10-11,Bengaluru,Personal Care,Laptop,4,1277,5108
+2024-05-17,Bengaluru,Electronics,Rice,3,915,2745
+2024-07-02,Bengaluru,Electronics,Shampoo,9,1547,13923
+2024-11-25,Hyderabad,Groceries,Laptop,12,372,4464
+2024-09-29,Hyderabad,Personal Care,Sofa,10,1770,17700
+2024-12-05,Bengaluru,Electronics,Sofa,2,1948,3896
+2024-03-09,Hyderabad,Personal Care,Oil,11,619,6809
+2024-02-03,Chennai,Electronics,Rice,10,1251,12510
+2024-09-18,Chennai,Personal Care,Bed,6,1496,8976
+2024-02-22,Hyderabad,Apparel,Bed,18,667,12006
+2024-07-23,Bengaluru,Personal Care,Sofa,2,737,1474
+2024-05-05,Hyderabad,Personal Care,Bed,2,258,516
+2024-08-22,Hyderabad,Groceries,Phone,10,1694,16940
+2024-02-12,Hyderabad,Apparel,Oil,16,1693,27088
+2024-08-27,Mumbai,Home,Sofa,12,751,9012
+2024-04-20,Chennai,Groceries,Bed,1,275,275
+2024-09-05,Delhi,Home,Rice,8,719,5752
+2024-05-30,Delhi,Electronics,Soap,16,310,4960
+2024-07-01,Mumbai,Home,Shampoo,18,546,9828
+2024-12-01,Hyderabad,Personal Care,Laptop,13,685,8905
+2024-04-04,Mumbai,Home,Laptop,15,266,3990
+2024-01-08,Mumbai,Groceries,Phone,12,559,6708
+2024-12-25,Bengaluru,Groceries,Jeans,8,1015,8120
+2024-07-02,Chennai,Home,Rice,10,1480,14800
+2024-10-07,Delhi,Groceries,Jeans,14,1427,19978
+2024-07-13,Hyderabad,Groceries,Oil,5,1356,6780
+2024-12-17,Delhi,Home,Shampoo,18,1450,26100
+2024-07-13,Delhi,Apparel,Oil,19,1305,24795
+2024-06-03,Chennai,Apparel,Sofa,15,1757,26355
+2024-04-02,Delhi,Electronics,Rice,6,1457,8742
+2024-06-08,Delhi,Groceries,Sofa,11,1838,20218
+2024-03-01,Mumbai,Home,T-Shirt,11,1152,12672
+2024-05-01,Chennai,Groceries,Bed,18,813,14634
+2024-02-20,Bengaluru,Personal Care,Laptop,18,1216,21888
+2024-10-03,Hyderabad,Groceries,Soap,10,940,9400
+2024-01-05,Delhi,Groceries,Sofa,2,967,1934
+2024-04-01,Hyderabad,Apparel,Jeans,9,787,7083
+2024-06-18,Bengaluru,Home,T-Shirt,14,429,6006
+2024-11-12,Hyderabad,Groceries,Laptop,19,1846,35074
+2024-01-22,Bengaluru,Apparel,Sofa,10,1307,13070
+2024-11-21,Mumbai,Electronics,T-Shirt,4,194,776
+2024-01-01,Delhi,Apparel,T-Shirt,6,884,5304
+2024-05-12,Bengaluru,Apparel,Rice,14,748,10472
+2024-08-20,Hyderabad,Apparel,Oil,4,1872,7488
+2024-01-12,Delhi,Groceries,T-Shirt,15,452,6780
+2024-12-11,Mumbai,Groceries,Phone,16,1029,16464
+2024-02-15,Delhi,Electronics,Oil,7,1040,7280
+2024-02-03,Bengaluru,Personal Care,Laptop,17,1083,18411
+2024-03-18,Mumbai,Personal Care,Laptop,19,1388,26372
+2024-08-05,Hyderabad,Personal Care,Laptop,19,1770,33630
+2024-10-27,Mumbai,Electronics,Laptop,17,1779,30243
+2024-03-13,Mumbai,Personal Care,Phone,6,1142,6852
+2024-10-08,Chennai,Personal Care,Sofa,11,1866,20526
+2024-09-05,Mumbai,Apparel,Shampoo,16,745,11920
+2024-02-16,Mumbai,Groceries,T-Shirt,8,725,5800
+2024-04-30,Delhi,Groceries,Laptop,11,1622,17842
+2024-08-01,Hyderabad,Apparel,Oil,7,238,1666
+2024-08-26,Delhi,Apparel,Oil,19,1760,33440
+2024-02-25,Delhi,Apparel,T-Shirt,10,815,8150
+2024-12-15,Bengaluru,Groceries,Sofa,9,1696,15264
+2024-04-16,Delhi,Personal Care,Soap,4,861,3444
+2024-11-14,Chennai,Apparel,Soap,15,1933,28995
+2024-02-17,Chennai,Electronics,Shampoo,13,1648,21424
+2024-03-01,Bengaluru,Apparel,Sofa,2,354,708
+2024-12-02,Hyderabad,Home,T-Shirt,2,1208,2416
+2024-01-26,Hyderabad,Apparel,Soap,16,1581,25296
+2024-10-18,Delhi,Groceries,Soap,9,1655,14895
+2024-09-13,Delhi,Apparel,Soap,13,1685,21905
+2024-01-08,Delhi,Home,Jeans,3,775,2325
+2024-04-22,Hyderabad,Electronics,Phone,9,191,1719
+2024-12-20,Mumbai,Personal Care,T-Shirt,13,1723,22399
+2024-09-09,Chennai,Apparel,Bed,2,1192,2384
+2024-06-28,Mumbai,Home,Rice,8,136,1088
+2024-07-25,Mumbai,Home,Rice,9,1888,16992
+2024-10-29,Hyderabad,Electronics,Sofa,16,1887,30192
+2024-05-06,Mumbai,Groceries,T-Shirt,2,239,478
+2024-02-25,Bengaluru,Apparel,T-Shirt,6,966,5796
+2024-08-01,Delhi,Home,Rice,8,779,6232
+2024-01-14,Bengaluru,Electronics,Shampoo,5,1689,8445
+2024-01-28,Chennai,Personal Care,Rice,9,1301,11709
+2024-03-18,Delhi,Home,T-Shirt,1,1932,1932
+2024-08-03,Mumbai,Electronics,Soap,9,1936,17424
+2024-12-30,Chennai,Groceries,Shampoo,10,1994,19940
+2024-06-02,Delhi,Groceries,Laptop,4,1741,6964
+2024-01-14,Mumbai,Home,Bed,3,236,708
+2024-07-05,Bengaluru,Home,Jeans,10,289,2890
+2024-11-07,Delhi,Apparel,Phone,15,1763,26445
+2024-01-07,Mumbai,Electronics,Laptop,11,441,4851
+2024-01-03,Bengaluru,Home,Oil,14,1682,23548
+2024-04-20,Chennai,Apparel,Rice,6,1128,6768
+2024-08-25,Chennai,Apparel,Bed,12,1071,12852
+2024-12-28,Chennai,Home,Rice,13,1380,17940
+2024-08-26,Chennai,Groceries,Rice,17,1935,32895
+2024-09-30,Hyderabad,Electronics,Laptop,16,761,12176
+2024-10-20,Delhi,Electronics,Soap,3,1929,5787
+2024-08-14,Delhi,Groceries,Soap,2,342,684
+2024-01-15,Hyderabad,Home,Jeans,11,1910,21010
+2024-07-10,Mumbai,Electronics,Shampoo,9,1843,16587
+2024-04-28,Mumbai,Home,Rice,3,514,1542
+2024-01-28,Chennai,Home,Sofa,18,1750,31500
+2024-07-20,Bengaluru,Apparel,Soap,15,806,12090
+2024-02-08,Mumbai,Groceries,T-Shirt,14,442,6188
+2024-09-29,Bengaluru,Home,Bed,2,781,1562
+2024-08-18,Delhi,Personal Care,Sofa,17,1502,25534
+2024-03-26,Bengaluru,Groceries,Laptop,8,1717,13736
+2024-05-05,Delhi,Electronics,Laptop,10,1789,17890
+2024-10-26,Hyderabad,Apparel,Jeans,18,752,13536
+2024-01-25,Hyderabad,Electronics,Jeans,19,1949,37031
+2024-05-24,Chennai,Electronics,Shampoo,8,245,1960
+2024-01-13,Mumbai,Groceries,T-Shirt,8,422,3376
+2024-07-30,Chennai,Electronics,Bed,3,221,663
+2024-01-25,Delhi,Home,T-Shirt,3,1375,4125
+2024-03-08,Chennai,Electronics,Oil,12,1978,23736
+2024-03-07,Bengaluru,Apparel,Jeans,17,410,6970
+2024-08-20,Delhi,Apparel,Shampoo,4,700,2800
+2024-04-18,Hyderabad,Personal Care,Phone,17,574,9758
+2024-05-25,Mumbai,Apparel,Rice,14,669,9366
+2024-04-20,Delhi,Electronics,Rice,19,1615,30685
+2024-08-15,Delhi,Apparel,Phone,9,674,6066
+2024-04-20,Bengaluru,Groceries,Soap,12,446,5352
+2024-02-03,Mumbai,Apparel,T-Shirt,5,919,4595
+2024-04-20,Hyderabad,Home,Phone,11,1610,17710
+2024-09-20,Delhi,Groceries,Shampoo,3,1596,4788
+2024-08-23,Delhi,Personal Care,Bed,15,481,7215
+2024-03-23,Bengaluru,Home,Phone,14,1403,19642
+2024-02-11,Chennai,Electronics,Shampoo,11,171,1881
+2024-04-10,Hyderabad,Electronics,Jeans,8,620,4960
+2024-01-06,Mumbai,Electronics,Sofa,4,1489,5956
+2024-06-28,Delhi,Home,Laptop,12,1032,12384
+2024-10-08,Delhi,Home,Laptop,8,1217,9736
+2024-11-15,Hyderabad,Home,Oil,6,1496,8976
+2024-08-13,Chennai,Groceries,T-Shirt,15,438,6570
+2024-11-10,Delhi,Groceries,Bed,12,1560,18720
+2024-12-30,Hyderabad,Electronics,Sofa,16,1459,23344
+2024-08-16,Bengaluru,Apparel,Sofa,16,763,12208
+2024-10-15,Chennai,Electronics,Jeans,4,1615,6460
+2024-05-29,Mumbai,Personal Care,Phone,11,1991,21901
+2024-10-03,Delhi,Groceries,T-Shirt,13,139,1807
+2024-07-16,Hyderabad,Home,Rice,9,1482,13338
+2024-03-10,Bengaluru,Groceries,Sofa,4,673,2692
+2024-04-21,Mumbai,Home,Shampoo,12,1377,16524
+2024-01-04,Hyderabad,Personal Care,Rice,9,1065,9585
+2024-12-15,Hyderabad,Personal Care,Oil,13,680,8840
+2024-11-26,Mumbai,Groceries,Phone,16,1521,24336
+2024-11-13,Bengaluru,Home,Phone,6,1880,11280
+2024-12-15,Bengaluru,Personal Care,Bed,10,269,2690
+2024-04-04,Chennai,Electronics,Sofa,13,1813,23569
+2024-05-31,Delhi,Electronics,Jeans,7,800,5600
+2024-11-06,Mumbai,Home,Soap,19,610,11590
+2024-05-16,Mumbai,Groceries,Soap,19,1383,26277
+2024-09-03,Mumbai,Personal Care,Laptop,17,683,11611
+2024-08-30,Bengaluru,Groceries,Shampoo,13,1083,14079
+2024-01-31,Delhi,Electronics,Rice,13,558,7254
+2024-02-09,Chennai,Personal Care,Oil,2,628,1256
+2024-08-16,Hyderabad,Groceries,Laptop,10,440,4400
+2024-02-05,Hyderabad,Apparel,Phone,13,156,2028
+2024-08-10,Mumbai,Home,Rice,9,317,2853
+2024-01-06,Delhi,Home,T-Shirt,1,718,718
+2024-11-17,Bengaluru,Apparel,Sofa,14,915,12810
+2024-08-07,Delhi,Electronics,Oil,16,1808,28928
+2024-03-15,Delhi,Personal Care,T-Shirt,15,830,12450
+2024-01-04,Bengaluru,Home,Jeans,1,563,563
+2024-11-30,Mumbai,Apparel,Sofa,17,346,5882
+2024-05-13,Delhi,Apparel,Rice,13,829,10777
+2024-04-27,Hyderabad,Electronics,Sofa,15,472,7080
+2024-04-03,Bengaluru,Electronics,Laptop,16,516,8256
+2024-03-02,Chennai,Groceries,Bed,16,1154,18464
+2024-07-12,Mumbai,Home,Laptop,2,467,934
+2024-11-30,Bengaluru,Groceries,Jeans,17,658,11186
+2024-07-21,Chennai,Apparel,Shampoo,11,1769,19459
+2024-01-26,Chennai,Personal Care,T-Shirt,8,207,1656
+2024-06-21,Delhi,Personal Care,Laptop,3,683,2049
+2024-10-26,Delhi,Electronics,Bed,12,938,11256
+2024-05-12,Delhi,Personal Care,Shampoo,16,517,8272
+2024-11-21,Bengaluru,Personal Care,Laptop,14,1743,24402
+2024-04-27,Bengaluru,Personal Care,Phone,16,920,14720
+2024-11-19,Mumbai,Apparel,Bed,17,1521,25857
+2024-10-01,Delhi,Personal Care,T-Shirt,11,1395,15345
+2024-07-30,Chennai,Personal Care,Oil,17,782,13294
+2024-08-12,Hyderabad,Personal Care,Soap,19,1239,23541
+2024-01-20,Mumbai,Groceries,Shampoo,1,1964,1964
+2024-04-22,Bengaluru,Apparel,Phone,12,1709,20508
+2024-05-19,Mumbai,Electronics,Oil,15,355,5325
+2024-02-16,Mumbai,Groceries,Rice,18,1204,21672
+2024-01-01,Mumbai,Home,Bed,14,879,12306
+2024-03-30,Mumbai,Apparel,Phone,1,1251,1251
+2024-05-21,Hyderabad,Apparel,Sofa,13,937,12181
+2024-11-15,Delhi,Home,Rice,15,1014,15210
+2024-02-07,Chennai,Home,Rice,7,334,2338
+2024-10-19,Mumbai,Home,Shampoo,15,652,9780
+2024-05-18,Mumbai,Electronics,Bed,10,280,2800
+2024-12-21,Mumbai,Personal Care,Phone,14,256,3584
+2024-11-28,Delhi,Apparel,Jeans,6,1577,9462
+2024-09-15,Bengaluru,Personal Care,Phone,14,670,9380
+2024-06-09,Bengaluru,Personal Care,Laptop,12,956,11472
+2024-06-26,Hyderabad,Home,Rice,11,1884,20724
+2024-01-10,Bengaluru,Electronics,T-Shirt,19,1827,34713
+2024-09-17,Mumbai,Groceries,Rice,2,1147,2294
+2024-05-17,Mumbai,Electronics,Rice,1,1596,1596
+2024-06-20,Mumbai,Personal Care,Soap,8,1523,12184
+2024-01-13,Hyderabad,Electronics,Sofa,14,1047,14658
+2024-06-16,Mumbai,Home,Jeans,9,691,6219
+2024-05-09,Bengaluru,Groceries,Oil,2,233,466
+2024-03-24,Delhi,Home,Oil,5,520,2600
+2024-11-16,Delhi,Groceries,Sofa,8,312,2496
+2024-11-14,Chennai,Personal Care,Rice,16,999,15984
+2024-04-10,Bengaluru,Groceries,Oil,16,581,9296
+2024-11-24,Mumbai,Groceries,Bed,13,447,5811
+2024-09-29,Delhi,Groceries,Jeans,15,265,3975
+2024-09-21,Bengaluru,Electronics,Oil,1,1036,1036
+2024-02-07,Delhi,Electronics,Sofa,3,447,1341
+2024-04-03,Mumbai,Personal Care,Laptop,6,948,5688
+2024-04-04,Delhi,Groceries,Oil,14,497,6958
+2024-10-31,Chennai,Apparel,Jeans,4,682,2728
+2024-03-09,Chennai,Personal Care,Shampoo,18,825,14850
+2024-11-13,Delhi,Groceries,Shampoo,15,1558,23370
+2024-08-23,Bengaluru,Groceries,Bed,9,1700,15300
+2024-11-29,Bengaluru,Electronics,Phone,18,1344,24192
+2024-05-16,Bengaluru,Personal Care,Phone,3,407,1221
+2024-03-16,Delhi,Groceries,Oil,10,1090,10900
+2024-02-04,Bengaluru,Groceries,T-Shirt,17,897,15249
+2024-01-01,Mumbai,Personal Care,Laptop,7,1820,12740
+2024-10-22,Chennai,Apparel,Sofa,15,818,12270
+2024-11-15,Mumbai,Personal Care,Laptop,1,565,565
+2024-02-29,Bengaluru,Personal Care,Shampoo,11,198,2178
+2024-11-15,Mumbai,Apparel,Oil,17,1365,23205
+2024-12-14,Bengaluru,Personal Care,Jeans,5,257,1285
+2024-11-23,Delhi,Groceries,Sofa,7,709,4963
+2024-09-23,Mumbai,Personal Care,Laptop,19,653,12407
+2024-12-26,Delhi,Apparel,Jeans,15,750,11250
+2024-08-16,Delhi,Home,Sofa,3,1918,5754
+2024-09-26,Hyderabad,Personal Care,Laptop,15,1019,15285
+2024-11-11,Bengaluru,Electronics,Bed,5,326,1630
+2024-10-12,Chennai,Groceries,Shampoo,12,522,6264
+2024-10-17,Bengaluru,Groceries,Rice,5,1195,5975
+2024-07-31,Chennai,Electronics,Sofa,3,342,1026
+2024-06-13,Bengaluru,Electronics,Shampoo,9,629,5661
+2024-01-05,Delhi,Personal Care,Soap,9,1712,15408
+2024-12-04,Mumbai,Electronics,T-Shirt,7,1168,8176
+2024-03-18,Mumbai,Home,Oil,2,1595,3190
+2024-03-02,Hyderabad,Apparel,Soap,16,470,7520
+2024-05-11,Chennai,Electronics,Jeans,9,1978,17802
+2024-03-29,Chennai,Electronics,Sofa,13,751,9763
+2024-08-24,Chennai,Home,Oil,19,788,14972
+2024-02-11,Delhi,Groceries,Oil,17,833,14161
+2024-03-29,Chennai,Groceries,Soap,6,191,1146
+2024-10-22,Mumbai,Personal Care,Soap,4,1145,4580
+2024-11-23,Delhi,Home,Rice,1,271,271
+2024-10-21,Bengaluru,Apparel,Laptop,18,1727,31086
+2024-04-13,Chennai,Apparel,Sofa,19,1315,24985
+2024-01-14,Chennai,Home,Shampoo,9,1200,10800
+2024-10-14,Bengaluru,Apparel,Phone,13,1404,18252
+2024-06-27,Chennai,Groceries,Sofa,8,1487,11896
+2024-05-04,Bengaluru,Apparel,Sofa,13,278,3614
+2024-12-18,Delhi,Apparel,Sofa,15,337,5055
+2024-01-23,Mumbai,Home,Oil,11,1258,13838
+2024-03-03,Bengaluru,Home,Jeans,12,976,11712
+2024-05-22,Hyderabad,Apparel,Oil,14,1001,14014
+2024-06-01,Bengaluru,Electronics,Jeans,4,379,1516
+2024-05-24,Chennai,Home,Soap,1,1142,1142
+2024-08-12,Delhi,Personal Care,Phone,4,1718,6872
+2024-11-04,Delhi,Personal Care,Oil,19,839,15941
+2024-04-13,Bengaluru,Groceries,Jeans,9,470,4230
+2024-04-13,Mumbai,Apparel,Oil,10,1900,19000
+2024-02-08,Hyderabad,Electronics,T-Shirt,4,1235,4940
+2024-07-16,Delhi,Groceries,Oil,9,1886,16974
+2024-05-13,Chennai,Apparel,Phone,13,1799,23387
+2024-03-07,Chennai,Home,Phone,12,969,11628
+2024-06-27,Mumbai,Personal Care,Jeans,11,1803,19833
+2024-02-11,Delhi,Electronics,Jeans,12,1118,13416
+2024-01-15,Bengaluru,Personal Care,Soap,18,320,5760
+2024-04-20,Chennai,Home,Phone,12,1019,12228
+2024-06-05,Mumbai,Apparel,Phone,16,403,6448
+2024-10-15,Delhi,Home,Rice,5,1826,9130
+2024-08-18,Delhi,Home,Sofa,12,1448,17376
+2024-06-05,Delhi,Personal Care,Bed,11,1560,17160
+2024-02-07,Delhi,Electronics,Oil,9,537,4833
+2024-04-06,Delhi,Home,Laptop,18,1293,23274
+2024-10-15,Chennai,Personal Care,Soap,3,474,1422
+2024-09-10,Mumbai,Electronics,Sofa,17,1680,28560
+2024-07-14,Delhi,Apparel,Bed,14,480,6720
+2024-03-26,Hyderabad,Apparel,Rice,1,1085,1085
+2024-11-17,Hyderabad,Groceries,Laptop,17,113,1921
+2024-01-10,Mumbai,Personal Care,Jeans,8,842,6736
+2024-01-05,Bengaluru,Electronics,Phone,5,768,3840
+2024-05-02,Bengaluru,Home,T-Shirt,5,599,2995
+2024-11-25,Bengaluru,Apparel,Soap,9,1769,15921
+2024-12-18,Hyderabad,Electronics,Shampoo,3,1514,4542
+2024-04-27,Bengaluru,Personal Care,Phone,19,1672,31768
+2024-10-20,Chennai,Groceries,T-Shirt,9,664,5976
+2024-06-07,Delhi,Apparel,Bed,18,629,11322
+2024-10-29,Hyderabad,Electronics,Jeans,16,591,9456
+2024-08-15,Mumbai,Electronics,Laptop,1,1673,1673
+2024-12-30,Mumbai,Electronics,Bed,2,1822,3644
+2024-08-03,Delhi,Personal Care,Phone,14,1508,21112
+2024-07-02,Hyderabad,Personal Care,Phone,14,1319,18466
+2024-01-15,Bengaluru,Personal Care,Laptop,1,854,854
+2024-06-05,Bengaluru,Home,Shampoo,16,399,6384
+2024-05-15,Chennai,Electronics,T-Shirt,15,914,13710
+2024-09-17,Chennai,Apparel,Bed,15,646,9690
+2024-06-05,Bengaluru,Personal Care,Jeans,12,826,9912
+2024-02-16,Mumbai,Personal Care,Phone,16,830,13280
+2024-11-19,Mumbai,Electronics,Bed,14,927,12978
+2024-11-27,Chennai,Personal Care,Shampoo,15,701,10515
+2024-06-21,Delhi,Home,Bed,15,1431,21465
+2024-05-09,Bengaluru,Home,Laptop,19,1375,26125
+2024-04-04,Chennai,Personal Care,Jeans,8,1131,9048
+2024-04-24,Chennai,Electronics,Rice,2,867,1734
+2024-08-30,Bengaluru,Electronics,Laptop,2,974,1948
+2024-10-18,Bengaluru,Electronics,Bed,10,1331,13310
+2024-10-08,Mumbai,Groceries,Rice,3,1036,3108
+2024-10-25,Delhi,Personal Care,Phone,17,230,3910
+2024-10-09,Delhi,Electronics,Rice,8,1859,14872
+2024-03-09,Bengaluru,Home,Shampoo,4,1832,7328
+2024-05-27,Hyderabad,Apparel,Oil,14,1777,24878
+2024-01-11,Chennai,Apparel,Shampoo,10,1887,18870
+2024-09-10,Chennai,Electronics,Laptop,1,707,707
+2024-11-25,Bengaluru,Apparel,Oil,4,125,500
+2024-12-25,Hyderabad,Apparel,Laptop,1,1746,1746
+2024-02-07,Mumbai,Groceries,Soap,17,1577,26809
+2024-05-13,Bengaluru,Home,Jeans,17,734,12478
+2024-07-18,Bengaluru,Home,Sofa,7,1309,9163
+2024-01-23,Chennai,Groceries,Phone,15,583,8745
+2024-10-29,Bengaluru,Groceries,Phone,13,779,10127
+2024-12-11,Bengaluru,Apparel,Soap,2,1174,2348
+2024-10-28,Bengaluru,Personal Care,Bed,19,104,1976
+2024-12-28,Chennai,Apparel,T-Shirt,13,688,8944
+2024-08-05,Mumbai,Groceries,Laptop,11,1283,14113
+2024-05-20,Mumbai,Home,Sofa,15,307,4605
+2024-04-13,Bengaluru,Apparel,Sofa,10,356,3560
+2024-07-28,Chennai,Personal Care,Shampoo,9,1328,11952
+2024-04-20,Mumbai,Apparel,Shampoo,9,1890,17010
+2024-04-13,Mumbai,Electronics,T-Shirt,1,110,110
+2024-11-11,Mumbai,Apparel,Bed,17,1048,17816
+2024-06-19,Chennai,Groceries,Soap,12,107,1284
+2024-12-21,Chennai,Home,Rice,10,1532,15320
+2024-11-19,Bengaluru,Home,Shampoo,5,1035,5175
+2024-05-12,Delhi,Groceries,Bed,18,131,2358
+2024-10-19,Mumbai,Electronics,Jeans,15,639,9585
+2024-11-23,Delhi,Groceries,Phone,6,1841,11046
+2024-05-06,Chennai,Apparel,Phone,7,1104,7728
+2024-04-15,Chennai,Groceries,Bed,17,486,8262
+2024-04-01,Chennai,Groceries,T-Shirt,6,1351,8106
+2024-10-13,Delhi,Electronics,Soap,8,739,5912
+2024-02-20,Chennai,Apparel,Sofa,12,1890,22680
+2024-01-29,Bengaluru,Personal Care,T-Shirt,14,1598,22372
+2024-10-22,Chennai,Personal Care,Bed,12,1847,22164
+2024-10-23,Hyderabad,Home,Soap,10,1874,18740
+2024-08-01,Delhi,Groceries,Soap,15,306,4590
+2024-09-23,Hyderabad,Home,Laptop,7,1441,10087
+2024-09-13,Chennai,Electronics,Oil,9,1918,17262
+2024-10-28,Bengaluru,Personal Care,Phone,10,1880,18800
+2024-04-10,Mumbai,Groceries,Bed,10,656,6560
+2024-12-11,Chennai,Electronics,Sofa,16,1740,27840
+2024-04-19,Bengaluru,Electronics,Oil,7,447,3129
+2024-06-30,Delhi,Groceries,Jeans,5,892,4460
+2024-11-08,Hyderabad,Electronics,Shampoo,3,333,999
+2024-01-01,Hyderabad,Groceries,Laptop,18,1824,32832
+2024-11-14,Hyderabad,Groceries,Shampoo,11,1167,12837
+2024-02-24,Delhi,Apparel,Oil,15,1105,16575
+2024-05-28,Bengaluru,Home,Oil,5,836,4180
+2024-11-04,Delhi,Electronics,Shampoo,12,1041,12492
+2024-05-16,Hyderabad,Electronics,Sofa,4,1265,5060
+2024-07-20,Chennai,Apparel,Sofa,15,1771,26565
+2024-11-08,Mumbai,Apparel,Rice,9,275,2475
+2024-04-26,Delhi,Apparel,Jeans,7,1777,12439
+2024-06-02,Delhi,Personal Care,Sofa,10,548,5480
+2024-10-17,Bengaluru,Personal Care,Jeans,13,691,8983
+2024-03-03,Bengaluru,Personal Care,Jeans,8,181,1448
+2024-08-31,Delhi,Groceries,Oil,12,234,2808
+2024-01-25,Hyderabad,Electronics,Jeans,19,1842,34998
+2024-03-30,Mumbai,Home,Laptop,1,955,955
+2024-03-15,Bengaluru,Groceries,Shampoo,16,1300,20800
+2024-10-20,Hyderabad,Electronics,Rice,17,1506,25602
+2024-07-28,Chennai,Electronics,Bed,18,1366,24588
+2024-12-12,Bengaluru,Apparel,T-Shirt,11,1690,18590
+2024-01-17,Hyderabad,Apparel,Rice,18,1264,22752
+2024-05-07,Hyderabad,Groceries,Laptop,7,1580,11060
+2024-12-29,Mumbai,Apparel,Rice,18,539,9702
+2024-09-07,Mumbai,Electronics,Jeans,8,1179,9432
+2024-06-27,Chennai,Apparel,Oil,6,1650,9900
+2024-06-30,Hyderabad,Personal Care,T-Shirt,7,796,5572
+2024-05-31,Hyderabad,Apparel,Sofa,10,1949,19490
+2024-01-25,Mumbai,Electronics,Oil,11,518,5698
+2024-06-28,Bengaluru,Groceries,Jeans,13,187,2431
+2024-07-16,Bengaluru,Home,Jeans,9,1732,15588
+2024-12-09,Delhi,Apparel,T-Shirt,7,755,5285
+2024-06-09,Mumbai,Electronics,T-Shirt,9,1131,10179
+2024-06-25,Delhi,Home,Phone,13,1600,20800
+2024-10-11,Mumbai,Home,Soap,3,314,942
+2024-03-03,Chennai,Personal Care,Soap,3,1808,5424
+2024-05-29,Hyderabad,Home,Oil,1,1858,1858
+2024-06-02,Chennai,Electronics,Sofa,2,651,1302
+2024-06-04,Mumbai,Electronics,Rice,3,1620,4860
+2024-02-18,Hyderabad,Apparel,Jeans,15,1817,27255
+2024-12-02,Bengaluru,Apparel,Jeans,6,602,3612
+2024-03-24,Bengaluru,Apparel,Phone,13,1905,24765
+2024-12-26,Delhi,Home,Oil,1,798,798
+2024-06-25,Mumbai,Home,Oil,19,344,6536
+2024-05-27,Mumbai,Personal Care,Shampoo,1,1601,1601
+2024-04-27,Bengaluru,Apparel,T-Shirt,2,408,816
+2024-12-07,Chennai,Groceries,Sofa,15,330,4950
+2024-03-03,Hyderabad,Personal Care,T-Shirt,14,1506,21084
+2024-07-07,Chennai,Groceries,Sofa,19,254,4826
+2024-12-25,Chennai,Home,Laptop,11,1298,14278
+2024-02-18,Bengaluru,Personal Care,Bed,15,947,14205
+2024-11-22,Bengaluru,Personal Care,Soap,6,214,1284
+2024-09-13,Bengaluru,Electronics,Soap,9,1513,13617
+2024-08-11,Delhi,Home,Sofa,5,410,2050
+2024-05-20,Chennai,Home,Soap,2,1092,2184
+2024-08-02,Mumbai,Personal Care,T-Shirt,6,399,2394
+2024-07-29,Hyderabad,Home,Jeans,18,1141,20538
+2024-11-13,Delhi,Personal Care,T-Shirt,19,883,16777
+2024-02-01,Mumbai,Electronics,Sofa,9,111,999
+2024-06-06,Chennai,Personal Care,Oil,6,1527,9162
+2024-10-11,Bengaluru,Home,T-Shirt,14,1936,27104
+2024-10-31,Chennai,Home,Soap,13,1827,23751
+2024-10-12,Hyderabad,Personal Care,Phone,11,331,3641
+2024-05-23,Delhi,Personal Care,Shampoo,12,1054,12648
+2024-01-19,Delhi,Personal Care,Jeans,19,1728,32832
+2024-01-18,Hyderabad,Apparel,Soap,19,829,15751
+2024-09-13,Mumbai,Home,Phone,19,1401,26619
+2024-03-18,Mumbai,Home,Sofa,13,1476,19188
+2024-06-23,Delhi,Apparel,Laptop,14,1117,15638
+2024-07-12,Delhi,Personal Care,Phone,18,1098,19764
+2024-04-22,Bengaluru,Electronics,Bed,12,402,4824
+2024-04-23,Mumbai,Personal Care,Laptop,4,640,2560
+2024-08-09,Hyderabad,Personal Care,Rice,10,569,5690
+2024-06-14,Mumbai,Apparel,Jeans,17,912,15504
+2024-11-14,Bengaluru,Home,Soap,4,176,704
+2024-05-11,Delhi,Personal Care,Rice,12,1119,13428
+2024-09-20,Delhi,Home,T-Shirt,13,1644,21372
+2024-02-24,Bengaluru,Groceries,Sofa,4,123,492
+2024-12-24,Hyderabad,Home,Jeans,10,1138,11380
+2024-05-10,Delhi,Electronics,Oil,3,775,2325
+2024-10-14,Chennai,Electronics,Laptop,15,624,9360
+2024-09-22,Delhi,Personal Care,Oil,2,446,892
+2024-06-10,Chennai,Home,Rice,17,271,4607
+2024-03-27,Bengaluru,Personal Care,Phone,6,1992,11952
+2024-02-24,Bengaluru,Apparel,Phone,8,1450,11600
+2024-10-14,Delhi,Electronics,Sofa,3,811,2433
+2024-06-26,Mumbai,Personal Care,Rice,18,1608,28944
+2024-12-14,Chennai,Apparel,Shampoo,1,588,588
+2024-01-08,Hyderabad,Personal Care,Jeans,16,1585,25360
+2024-11-16,Delhi,Home,Laptop,7,477,3339
+2024-11-08,Hyderabad,Home,Phone,3,1711,5133
+2024-09-03,Delhi,Home,Phone,4,1287,5148
+2024-11-18,Mumbai,Home,Oil,9,471,4239
+2024-09-11,Mumbai,Groceries,Oil,5,1696,8480
+2024-11-23,Mumbai,Apparel,Soap,19,1099,20881
+2024-02-23,Mumbai,Apparel,T-Shirt,15,1076,16140
+2024-09-05,Bengaluru,Home,Shampoo,8,1547,12376
+2024-08-26,Bengaluru,Groceries,Oil,6,856,5136
+2024-08-16,Chennai,Home,Oil,18,576,10368
+2024-03-07,Hyderabad,Groceries,Jeans,19,481,9139
+2024-02-20,Delhi,Home,Soap,15,254,3810
+2024-04-06,Delhi,Electronics,Oil,7,356,2492
+2024-04-01,Bengaluru,Electronics,Laptop,10,1879,18790
+2024-09-20,Delhi,Personal Care,Jeans,6,773,4638
+2024-10-17,Bengaluru,Home,T-Shirt,14,167,2338
+2024-04-05,Chennai,Apparel,Rice,17,443,7531
+2024-03-28,Hyderabad,Personal Care,Jeans,9,1400,12600
+2024-03-18,Chennai,Electronics,Rice,19,772,14668
+2024-10-14,Mumbai,Home,Phone,5,490,2450
+2024-04-29,Mumbai,Personal Care,Soap,7,1572,11004
+2024-10-28,Mumbai,Home,T-Shirt,19,358,6802
+2024-06-13,Chennai,Electronics,Soap,7,406,2842
+2024-06-30,Delhi,Personal Care,T-Shirt,2,1970,3940
+2024-08-10,Hyderabad,Electronics,Soap,16,1218,19488
+2024-11-06,Mumbai,Groceries,Jeans,13,1049,13637
+2024-01-07,Mumbai,Electronics,Soap,8,1587,12696
+2024-11-25,Mumbai,Home,Bed,6,1069,6414
+2024-09-19,Hyderabad,Apparel,T-Shirt,6,345,2070
+2024-06-09,Mumbai,Electronics,Rice,9,832,7488
+2024-05-30,Hyderabad,Apparel,T-Shirt,4,1758,7032
+2024-03-25,Mumbai,Groceries,Phone,11,286,3146
+2024-05-26,Chennai,Personal Care,Laptop,5,1897,9485
+2024-04-21,Chennai,Personal Care,Bed,17,1024,17408
+2024-02-05,Hyderabad,Apparel,Sofa,7,884,6188
+2024-10-11,Chennai,Personal Care,T-Shirt,15,1496,22440
+2024-07-06,Hyderabad,Electronics,Oil,15,1695,25425
+2024-03-22,Chennai,Apparel,Jeans,14,1529,21406
+2024-01-02,Chennai,Home,Jeans,13,507,6591
+2024-10-29,Hyderabad,Electronics,Soap,11,1248,13728
+2024-07-15,Delhi,Electronics,Soap,13,1460,18980
+2024-01-11,Chennai,Electronics,Jeans,9,440,3960
+2024-08-21,Mumbai,Home,Shampoo,10,662,6620
+2024-07-13,Delhi,Groceries,Bed,4,1301,5204
+2024-04-28,Hyderabad,Personal Care,Bed,17,750,12750
+2024-01-20,Delhi,Apparel,Rice,14,1051,14714
+2024-09-17,Bengaluru,Groceries,T-Shirt,18,1962,35316
+2024-10-19,Bengaluru,Apparel,Sofa,11,1293,14223
+2024-09-12,Chennai,Personal Care,Jeans,16,1162,18592
+2024-08-09,Chennai,Home,T-Shirt,1,168,168
+2024-08-13,Mumbai,Electronics,Bed,7,1359,9513
+2024-02-22,Delhi,Electronics,Phone,10,1683,16830
+2024-12-20,Bengaluru,Home,Jeans,9,480,4320
+2024-12-07,Chennai,Groceries,T-Shirt,3,156,468
+2024-12-29,Delhi,Groceries,Bed,14,1400,19600
+2024-10-06,Chennai,Apparel,Laptop,15,949,14235
+2024-03-21,Chennai,Home,Bed,2,1222,2444
+2024-07-20,Bengaluru,Groceries,Soap,14,1015,14210
+2024-06-06,Bengaluru,Home,Oil,16,1650,26400
+2024-04-29,Chennai,Personal Care,Shampoo,7,424,2968
+2024-02-28,Hyderabad,Electronics,Shampoo,4,560,2240
+2024-08-02,Chennai,Electronics,Soap,18,278,5004
+2024-05-07,Chennai,Electronics,Soap,5,943,4715
+2024-08-11,Mumbai,Home,Jeans,6,673,4038
+2024-07-27,Mumbai,Home,Laptop,7,218,1526
+2024-04-24,Mumbai,Apparel,Laptop,15,1592,23880
+2024-07-27,Hyderabad,Electronics,Jeans,1,648,648
+2024-01-14,Hyderabad,Apparel,T-Shirt,4,745,2980
+2024-01-09,Chennai,Electronics,Jeans,1,1578,1578
+2024-02-09,Mumbai,Apparel,Sofa,11,125,1375
+2024-08-24,Hyderabad,Apparel,Sofa,18,1613,29034
+2024-10-07,Bengaluru,Personal Care,Shampoo,14,1131,15834
+2024-12-24,Chennai,Apparel,Bed,11,1068,11748
+2024-07-19,Delhi,Home,Jeans,10,1639,16390
+2024-09-02,Chennai,Apparel,Jeans,17,632,10744
+2024-10-04,Delhi,Electronics,T-Shirt,4,248,992
+2024-08-22,Mumbai,Apparel,Rice,15,1611,24165
+2024-01-04,Delhi,Groceries,Shampoo,16,1148,18368
+2024-06-02,Mumbai,Electronics,Shampoo,13,754,9802
+2024-01-29,Bengaluru,Groceries,Shampoo,9,1880,16920
+2024-04-18,Delhi,Electronics,Bed,11,1044,11484
+2024-04-07,Chennai,Home,Soap,11,654,7194
+2024-08-02,Mumbai,Home,Phone,6,524,3144
+2024-10-19,Chennai,Home,Rice,1,392,392
+2024-03-15,Hyderabad,Groceries,Bed,6,1308,7848
+2024-11-21,Mumbai,Personal Care,Sofa,13,653,8489
+2024-05-25,Delhi,Electronics,T-Shirt,5,530,2650
+2024-05-07,Mumbai,Home,Soap,15,703,10545
+2024-12-06,Chennai,Electronics,Sofa,18,416,7488
+2024-02-11,Bengaluru,Groceries,Soap,14,497,6958
+2024-12-21,Mumbai,Personal Care,Laptop,15,1447,21705
+2024-02-10,Delhi,Groceries,Shampoo,5,1688,8440
+2024-02-03,Hyderabad,Electronics,Soap,4,695,2780
+2024-01-17,Bengaluru,Personal Care,Oil,2,645,1290
+2024-06-13,Hyderabad,Personal Care,Shampoo,7,175,1225
+2024-06-01,Mumbai,Groceries,Shampoo,10,964,9640
+2024-03-16,Chennai,Home,T-Shirt,16,1015,16240
+2024-03-27,Chennai,Electronics,Rice,10,808,8080
+2024-04-26,Delhi,Apparel,Sofa,18,585,10530
+2024-12-27,Chennai,Apparel,Soap,17,1921,32657
+2024-12-07,Bengaluru,Groceries,Soap,13,1211,15743
+2024-01-27,Chennai,Electronics,Laptop,1,846,846
+2024-11-08,Delhi,Electronics,Shampoo,1,1355,1355
+2024-10-13,Mumbai,Groceries,Jeans,15,1130,16950
+2024-05-13,Mumbai,Electronics,Phone,1,1927,1927
+2024-08-06,Chennai,Home,Jeans,6,649,3894
+2024-06-16,Hyderabad,Groceries,Soap,13,1075,13975
+2024-04-07,Mumbai,Home,Jeans,1,1175,1175
+2024-09-24,Chennai,Electronics,T-Shirt,5,1778,8890
+2024-08-24,Delhi,Groceries,Oil,9,1041,9369
+2024-11-04,Chennai,Electronics,Soap,17,1018,17306
+2024-06-21,Mumbai,Groceries,Soap,16,1519,24304
+2024-07-08,Delhi,Electronics,Oil,8,1344,10752
+2024-05-01,Chennai,Home,Sofa,17,1551,26367
+2024-02-15,Bengaluru,Home,Oil,15,1875,28125
+2024-03-04,Delhi,Electronics,Jeans,1,1266,1266
+2024-05-09,Bengaluru,Groceries,T-Shirt,12,1984,23808
+2024-11-05,Hyderabad,Apparel,Laptop,5,462,2310
+2024-12-28,Delhi,Home,Sofa,6,481,2886
+2024-07-11,Bengaluru,Home,Bed,1,1684,1684
+2024-11-02,Mumbai,Apparel,Laptop,1,1400,1400
+2024-06-29,Mumbai,Electronics,Rice,10,370,3700
+2024-10-18,Hyderabad,Groceries,Rice,10,1137,11370
+2024-10-08,Delhi,Electronics,Rice,3,397,1191
+2024-01-29,Delhi,Personal Care,Rice,17,1103,18751
+2024-05-28,Delhi,Home,T-Shirt,19,1587,30153
+2024-09-23,Hyderabad,Personal Care,Laptop,11,1650,18150
+2024-10-22,Delhi,Home,Shampoo,18,333,5994
+2024-01-11,Mumbai,Home,Phone,2,674,1348
+2024-06-12,Bengaluru,Personal Care,Sofa,9,1831,16479
+2024-04-22,Mumbai,Personal Care,Bed,17,126,2142
+2024-07-05,Mumbai,Electronics,Jeans,14,1594,22316
+2024-10-21,Bengaluru,Personal Care,Soap,4,192,768
+2024-08-19,Mumbai,Electronics,Rice,17,716,12172
+2024-08-14,Hyderabad,Electronics,Bed,17,408,6936
+2024-11-05,Bengaluru,Electronics,Soap,12,151,1812
+2024-04-07,Mumbai,Home,Phone,18,418,7524
+2024-02-24,Chennai,Home,Bed,3,280,840
+2024-04-20,Mumbai,Personal Care,Laptop,11,1692,18612
+2024-05-31,Hyderabad,Home,Bed,18,1243,22374
+2024-09-02,Delhi,Personal Care,Rice,4,1943,7772
+2024-03-09,Mumbai,Home,Phone,17,974,16558
+2024-11-07,Delhi,Groceries,Jeans,18,1166,20988
+2024-10-15,Chennai,Groceries,Shampoo,5,746,3730
+2024-09-06,Mumbai,Personal Care,Oil,14,1383,19362
+2024-02-05,Bengaluru,Home,Rice,10,296,2960
+2024-08-26,Delhi,Home,Soap,15,744,11160
+2024-05-27,Chennai,Electronics,Phone,1,1070,1070
+2024-08-14,Bengaluru,Apparel,Laptop,16,354,5664
+2024-08-31,Bengaluru,Personal Care,T-Shirt,11,831,9141
+2024-12-02,Bengaluru,Apparel,Phone,6,435,2610
+2024-12-30,Bengaluru,Apparel,Soap,16,1676,26816
+2024-07-19,Mumbai,Personal Care,Oil,2,1625,3250
+2024-06-02,Mumbai,Home,Oil,1,1089,1089
+2024-03-13,Mumbai,Personal Care,Sofa,9,999,8991
+2024-07-19,Chennai,Apparel,Shampoo,12,1378,16536
+2024-10-22,Chennai,Home,Soap,17,613,10421
+2024-01-17,Chennai,Groceries,Oil,15,1830,27450
+2024-05-08,Hyderabad,Personal Care,Sofa,19,341,6479
+2024-08-04,Chennai,Personal Care,Sofa,10,248,2480
+2024-03-01,Mumbai,Home,Sofa,12,1833,21996
+2024-04-13,Mumbai,Groceries,Phone,14,1422,19908
+2024-02-11,Hyderabad,Groceries,Sofa,9,856,7704
+2024-01-25,Hyderabad,Home,Rice,13,1973,25649
+2024-02-08,Chennai,Electronics,Soap,3,719,2157
+2024-10-17,Delhi,Personal Care,Rice,14,552,7728
+2024-05-10,Hyderabad,Personal Care,T-Shirt,10,1516,15160
+2024-08-16,Bengaluru,Apparel,Oil,16,311,4976
+2024-04-17,Mumbai,Home,Shampoo,7,767,5369
+2024-06-20,Bengaluru,Apparel,Sofa,4,1661,6644
+2024-04-11,Mumbai,Apparel,Laptop,11,693,7623
+2024-12-19,Mumbai,Groceries,Laptop,16,1718,27488
+2024-01-12,Hyderabad,Personal Care,Oil,4,230,920
+2024-10-01,Hyderabad,Apparel,T-Shirt,17,1452,24684
+2024-04-10,Bengaluru,Groceries,Laptop,13,711,9243
+2024-02-13,Mumbai,Home,Rice,11,355,3905
+2024-10-31,Bengaluru,Apparel,Bed,3,1602,4806
+2024-01-17,Delhi,Personal Care,Phone,9,660,5940
+2024-11-25,Bengaluru,Apparel,Jeans,6,162,972
+2024-02-26,Chennai,Home,Laptop,11,1434,15774
+2024-11-06,Bengaluru,Apparel,Shampoo,16,506,8096
+2024-10-29,Chennai,Personal Care,Sofa,19,901,17119
+2024-01-12,Chennai,Groceries,Shampoo,5,1228,6140
+2024-11-13,Chennai,Personal Care,Soap,14,1740,24360
+2024-03-20,Delhi,Groceries,Phone,17,1960,33320
+2024-08-03,Bengaluru,Electronics,Rice,3,114,342
+2024-12-04,Bengaluru,Personal Care,T-Shirt,4,1810,7240
+2024-09-20,Delhi,Personal Care,Phone,16,358,5728
+2024-05-28,Mumbai,Home,Jeans,16,822,13152
+2024-03-21,Hyderabad,Apparel,Bed,4,1535,6140
+2024-08-02,Bengaluru,Groceries,Laptop,19,1382,26258
+2024-07-16,Hyderabad,Groceries,T-Shirt,17,713,12121
+2024-07-18,Delhi,Home,T-Shirt,13,1383,17979
+2024-01-25,Mumbai,Home,Laptop,1,1979,1979
+2024-03-29,Mumbai,Apparel,Laptop,12,1794,21528
+2024-09-24,Mumbai,Apparel,Laptop,4,1168,4672
+2024-05-22,Delhi,Personal Care,Laptop,11,912,10032
+2024-02-28,Chennai,Electronics,Laptop,5,1886,9430
+2024-12-30,Chennai,Apparel,T-Shirt,2,430,860
+2024-01-26,Hyderabad,Home,Oil,17,264,4488
+2024-02-16,Chennai,Apparel,Oil,8,1316,10528
+2024-10-14,Chennai,Groceries,Shampoo,6,1644,9864
+2024-09-22,Mumbai,Electronics,Oil,9,1524,13716
+2024-01-16,Mumbai,Personal Care,Jeans,13,1497,19461
+2024-07-17,Hyderabad,Groceries,Oil,11,1188,13068
+2024-10-08,Bengaluru,Groceries,T-Shirt,16,486,7776
+2024-03-26,Hyderabad,Electronics,Laptop,16,1618,25888
+2024-09-06,Hyderabad,Personal Care,Sofa,2,1917,3834
+2024-09-26,Delhi,Home,Sofa,10,1816,18160
+2024-11-30,Delhi,Personal Care,Jeans,12,1538,18456
+2024-04-26,Hyderabad,Apparel,Soap,8,1917,15336
+2024-01-07,Hyderabad,Groceries,T-Shirt,11,1914,21054
+2024-05-16,Hyderabad,Apparel,Rice,10,1153,11530
+2024-06-24,Chennai,Home,Phone,13,1389,18057
+2024-11-23,Delhi,Apparel,Shampoo,17,427,7259
+2024-11-10,Hyderabad,Personal Care,Rice,7,1615,11305
+2024-08-02,Mumbai,Apparel,T-Shirt,3,1340,4020
+2024-03-22,Mumbai,Home,Oil,13,419,5447
+2024-08-10,Chennai,Home,Laptop,19,498,9462
+2024-04-12,Chennai,Home,Rice,7,204,1428
+2024-09-29,Bengaluru,Personal Care,Phone,9,795,7155
+2024-01-14,Bengaluru,Home,Soap,19,1116,21204
+2024-06-07,Bengaluru,Groceries,Sofa,13,429,5577
+2024-05-31,Chennai,Home,Soap,8,759,6072
+2024-04-17,Chennai,Apparel,Phone,18,1740,31320
+2024-07-06,Chennai,Apparel,Laptop,2,1170,2340
+2024-10-27,Mumbai,Apparel,Oil,18,698,12564
+2024-04-07,Chennai,Personal Care,Phone,18,920,16560
+2024-05-10,Mumbai,Apparel,Shampoo,11,740,8140
+2024-10-19,Bengaluru,Personal Care,Phone,1,1893,1893
+2024-06-19,Bengaluru,Personal Care,T-Shirt,14,413,5782
+2024-07-01,Bengaluru,Home,Oil,16,1270,20320
+2024-12-29,Hyderabad,Groceries,Laptop,11,561,6171
+2024-02-08,Hyderabad,Home,Sofa,1,1707,1707
+2024-01-15,Delhi,Home,Sofa,7,585,4095
+2024-01-04,Delhi,Personal Care,Phone,16,1775,28400
+2024-12-14,Delhi,Personal Care,T-Shirt,14,509,7126
+2024-07-28,Hyderabad,Apparel,Rice,15,126,1890
+2024-06-09,Hyderabad,Apparel,Soap,14,1152,16128
+2024-01-16,Delhi,Home,Soap,11,370,4070
+2024-04-17,Delhi,Electronics,Soap,16,785,12560
+2024-11-06,Chennai,Electronics,Rice,19,600,11400
+2024-08-14,Delhi,Apparel,T-Shirt,17,1376,23392
+2024-06-18,Chennai,Electronics,Soap,6,484,2904
+2024-02-03,Mumbai,Apparel,Shampoo,11,159,1749
+2024-09-07,Hyderabad,Personal Care,Rice,17,1230,20910
+2024-09-03,Delhi,Home,Rice,9,319,2871
+2024-09-25,Hyderabad,Groceries,Laptop,18,1564,28152
+2024-05-20,Hyderabad,Home,Laptop,17,870,14790
+2024-09-30,Hyderabad,Apparel,Oil,12,1781,21372
+2024-04-05,Mumbai,Apparel,Shampoo,5,663,3315
+2024-08-14,Bengaluru,Home,Shampoo,11,1695,18645
+2024-02-08,Delhi,Apparel,Oil,4,645,2580
+2024-10-28,Bengaluru,Electronics,Shampoo,4,195,780
+2024-01-29,Bengaluru,Electronics,Jeans,3,1088,3264
+2024-11-13,Bengaluru,Apparel,Bed,17,1212,20604
+2024-09-01,Hyderabad,Apparel,Soap,7,927,6489
+2024-08-23,Chennai,Electronics,Laptop,4,330,1320
+2024-07-03,Hyderabad,Apparel,Oil,13,1067,13871
+2024-09-28,Hyderabad,Apparel,Oil,12,374,4488
+2024-08-23,Bengaluru,Home,Shampoo,1,345,345
+2024-08-26,Hyderabad,Groceries,Rice,19,210,3990
+2024-09-22,Bengaluru,Electronics,Sofa,18,333,5994
+2024-12-24,Chennai,Home,Phone,11,1401,15411
+2024-12-05,Delhi,Groceries,Phone,3,1600,4800
+2024-03-05,Bengaluru,Apparel,Oil,17,516,8772
+2024-06-25,Chennai,Apparel,Soap,12,777,9324
+2024-01-03,Delhi,Home,Jeans,10,1251,12510
+2024-05-21,Mumbai,Apparel,Soap,8,1360,10880
+2024-06-06,Bengaluru,Personal Care,Oil,15,902,13530
+2024-11-19,Bengaluru,Home,Soap,5,718,3590
+2024-05-25,Mumbai,Groceries,Laptop,4,1251,5004
+2024-10-19,Mumbai,Home,Soap,19,806,15314
+2024-06-01,Bengaluru,Electronics,Shampoo,4,950,3800
+2024-07-11,Mumbai,Home,Shampoo,15,1517,22755
+2024-03-13,Hyderabad,Apparel,Jeans,17,574,9758
+2024-10-31,Delhi,Apparel,Laptop,12,754,9048
+2024-12-09,Delhi,Personal Care,Sofa,3,494,1482
+2024-05-19,Delhi,Personal Care,Rice,10,210,2100
+2024-07-05,Hyderabad,Personal Care,Laptop,15,189,2835
+2024-10-19,Mumbai,Groceries,T-Shirt,10,862,8620
+2024-03-01,Chennai,Personal Care,Bed,18,1403,25254
+2024-07-16,Mumbai,Groceries,Oil,1,1456,1456
+2024-10-21,Bengaluru,Personal Care,T-Shirt,3,1347,4041
+2024-11-14,Delhi,Groceries,Jeans,12,1224,14688
+2024-10-28,Mumbai,Home,T-Shirt,1,231,231
+2024-12-09,Chennai,Home,Shampoo,3,1136,3408
+2024-01-11,Bengaluru,Apparel,Soap,3,556,1668
+2024-03-02,Hyderabad,Groceries,Rice,5,1564,7820
+2024-11-28,Hyderabad,Electronics,Phone,19,197,3743
+2024-08-13,Chennai,Apparel,Oil,1,1243,1243
+2024-06-01,Bengaluru,Home,Phone,4,392,1568
+2024-07-17,Delhi,Groceries,Soap,4,1939,7756
+2024-02-21,Mumbai,Personal Care,Shampoo,17,1834,31178
+2024-09-16,Bengaluru,Electronics,Shampoo,14,1124,15736
+2024-02-28,Hyderabad,Home,Soap,18,671,12078
+2024-03-12,Chennai,Apparel,Oil,1,349,349
+2024-05-27,Chennai,Groceries,Phone,16,751,12016
+2024-12-14,Mumbai,Electronics,Laptop,3,248,744
+2024-03-03,Chennai,Groceries,Shampoo,9,1518,13662
+2024-11-05,Chennai,Personal Care,Phone,4,143,572
+2024-08-30,Bengaluru,Apparel,Sofa,5,1821,9105
+2024-11-25,Delhi,Groceries,Phone,11,1743,19173
+2024-04-16,Mumbai,Home,Sofa,9,1167,10503
+2024-08-13,Bengaluru,Apparel,Sofa,3,1201,3603
+2024-11-08,Delhi,Home,Shampoo,6,1349,8094
+2024-08-05,Bengaluru,Groceries,Oil,11,261,2871
+2024-08-28,Bengaluru,Apparel,Jeans,9,1916,17244
+2024-09-15,Chennai,Home,Shampoo,15,352,5280
+2024-09-18,Delhi,Personal Care,Oil,3,231,693
+2024-01-05,Mumbai,Personal Care,Oil,1,1571,1571
+2024-09-17,Mumbai,Groceries,T-Shirt,19,573,10887
+2024-02-23,Delhi,Apparel,Soap,14,1779,24906
+2024-02-16,Chennai,Electronics,Soap,17,1901,32317
+2024-08-02,Hyderabad,Apparel,Soap,14,1232,17248
+2024-06-25,Bengaluru,Personal Care,Bed,17,805,13685
+2024-01-09,Chennai,Home,Shampoo,14,1158,16212
+2024-04-08,Delhi,Electronics,Oil,12,1590,19080
+2024-01-20,Bengaluru,Groceries,T-Shirt,16,374,5984
+2024-08-28,Mumbai,Electronics,Sofa,1,286,286
+2024-03-01,Hyderabad,Groceries,Jeans,13,1048,13624
+2024-06-26,Mumbai,Electronics,Jeans,6,342,2052
+2024-12-03,Delhi,Groceries,Sofa,17,363,6171
+2024-03-02,Bengaluru,Groceries,Phone,12,621,7452
+2024-05-24,Delhi,Electronics,Phone,19,1062,20178
+2024-08-03,Bengaluru,Electronics,Soap,6,1801,10806
+2024-01-03,Chennai,Groceries,Shampoo,7,1664,11648
+2024-06-08,Hyderabad,Personal Care,Bed,1,882,882
+2024-08-14,Chennai,Electronics,T-Shirt,1,1210,1210
+2024-09-25,Chennai,Apparel,Jeans,5,634,3170
+2024-04-29,Delhi,Home,Soap,6,309,1854
+2024-03-29,Hyderabad,Groceries,Rice,16,145,2320
+2024-11-24,Bengaluru,Groceries,Soap,16,1590,25440
+2024-03-08,Bengaluru,Home,Rice,14,1663,23282
+2024-12-22,Mumbai,Personal Care,Laptop,1,125,125
+2024-04-07,Bengaluru,Home,Oil,13,1389,18057
+2024-09-23,Delhi,Electronics,Sofa,10,274,2740
+2024-04-14,Chennai,Home,Oil,10,1639,16390
+2024-11-18,Chennai,Groceries,Soap,9,1434,12906
+2024-05-02,Chennai,Home,Oil,13,421,5473
+2024-01-29,Hyderabad,Apparel,T-Shirt,3,1702,5106
+2024-05-16,Bengaluru,Electronics,Laptop,18,1258,22644
+2024-07-13,Delhi,Home,Bed,2,154,308
+2024-08-13,Hyderabad,Groceries,Laptop,17,1666,28322
+2024-11-27,Mumbai,Electronics,Jeans,19,1709,32471
+2024-06-18,Delhi,Groceries,T-Shirt,13,1654,21502
+2024-01-09,Delhi,Personal Care,Oil,13,1279,16627
+2024-02-09,Delhi,Apparel,Bed,1,1972,1972
+2024-01-25,Chennai,Personal Care,Oil,2,767,1534
+2024-09-17,Delhi,Apparel,Shampoo,1,246,246
+2024-08-13,Bengaluru,Home,Shampoo,5,1608,8040
+2024-05-03,Delhi,Electronics,Phone,3,698,2094
+2024-02-07,Chennai,Home,Laptop,7,119,833
+2024-11-23,Delhi,Apparel,Bed,13,1392,18096
+2024-09-07,Mumbai,Apparel,Shampoo,18,432,7776
+2024-06-24,Mumbai,Apparel,Phone,7,1678,11746
+2024-03-30,Chennai,Groceries,T-Shirt,1,1006,1006
+2024-02-06,Bengaluru,Electronics,Bed,5,1043,5215
+2024-11-11,Bengaluru,Home,Phone,17,1010,17170
+2024-06-24,Hyderabad,Home,Sofa,8,500,4000
+2024-10-10,Chennai,Personal Care,Bed,15,1049,15735
+2024-03-21,Delhi,Apparel,Soap,4,1429,5716
+2024-04-23,Chennai,Apparel,Phone,2,127,254
+2024-02-09,Hyderabad,Apparel,Oil,5,566,2830
+2024-10-27,Chennai,Home,Soap,1,1383,1383
+2024-08-11,Chennai,Personal Care,Sofa,5,1657,8285
+2024-11-13,Hyderabad,Groceries,Shampoo,6,1081,6486
+2024-12-14,Bengaluru,Electronics,Rice,2,200,400
+2024-04-24,Delhi,Groceries,Phone,1,650,650
+2024-07-04,Hyderabad,Home,T-Shirt,4,901,3604
+2024-11-18,Mumbai,Apparel,Phone,7,452,3164
+2024-02-25,Bengaluru,Electronics,Rice,1,1423,1423
+2024-02-09,Mumbai,Home,Sofa,1,1805,1805
+2024-12-19,Bengaluru,Home,Sofa,8,395,3160
+2024-02-09,Delhi,Home,Soap,16,452,7232
+2024-12-12,Delhi,Electronics,Bed,13,1007,13091
+2024-08-24,Chennai,Electronics,T-Shirt,18,1253,22554
+2024-10-15,Mumbai,Personal Care,Soap,10,1118,11180
+2024-09-18,Bengaluru,Personal Care,T-Shirt,12,1279,15348
+2024-08-03,Delhi,Groceries,T-Shirt,1,1197,1197
+2024-05-26,Hyderabad,Electronics,Rice,10,1465,14650
+2024-12-01,Delhi,Electronics,Soap,9,1588,14292
+2024-06-16,Hyderabad,Electronics,T-Shirt,3,1213,3639
+2024-04-01,Bengaluru,Personal Care,Jeans,19,1702,32338
+2024-12-18,Delhi,Home,Rice,9,554,4986
+2024-02-28,Delhi,Apparel,Sofa,10,1871,18710
+2024-02-28,Bengaluru,Personal Care,Rice,19,811,15409
+2024-10-30,Delhi,Electronics,Oil,16,1079,17264
+2024-06-17,Hyderabad,Personal Care,Oil,18,1455,26190
+2024-09-25,Delhi,Groceries,T-Shirt,14,838,11732
+2024-12-28,Mumbai,Electronics,Soap,3,1076,3228
+2024-02-14,Chennai,Groceries,Sofa,2,1471,2942
+2024-12-10,Hyderabad,Electronics,Rice,1,332,332
+2024-06-29,Mumbai,Personal Care,Soap,18,1901,34218
+2024-06-18,Bengaluru,Home,Rice,9,1721,15489
+2024-12-21,Hyderabad,Apparel,Rice,13,1123,14599
+2024-07-09,Chennai,Groceries,Jeans,2,201,402
+2024-06-03,Chennai,Personal Care,Oil,7,1052,7364
+2024-07-06,Bengaluru,Home,Rice,16,580,9280
+2024-01-07,Bengaluru,Personal Care,Jeans,19,1337,25403
+2024-05-12,Hyderabad,Groceries,Oil,15,207,3105
+2024-08-22,Delhi,Apparel,Jeans,11,1288,14168
+2024-02-14,Bengaluru,Personal Care,Soap,1,1072,1072
+2024-11-09,Delhi,Electronics,Bed,7,1726,12082
+2024-09-05,Mumbai,Home,Oil,8,803,6424
+2024-01-31,Chennai,Personal Care,Shampoo,10,434,4340
+2024-01-23,Delhi,Home,Bed,5,185,925
+2024-06-08,Chennai,Electronics,Soap,9,833,7497
+2024-12-28,Delhi,Apparel,Rice,1,974,974
+2024-06-06,Mumbai,Apparel,Sofa,2,1547,3094
+2024-02-08,Bengaluru,Electronics,Soap,19,1736,32984
+2024-03-22,Mumbai,Home,Jeans,14,1861,26054
+2024-12-21,Bengaluru,Personal Care,Jeans,10,463,4630
+2024-09-14,Bengaluru,Electronics,Jeans,9,159,1431
+2024-07-24,Chennai,Groceries,Jeans,10,1605,16050
+2024-03-17,Mumbai,Home,Soap,6,1373,8238
+2024-01-12,Delhi,Apparel,Sofa,17,659,11203
+2024-10-21,Mumbai,Electronics,Phone,6,216,1296
+2024-08-11,Chennai,Apparel,Jeans,4,1862,7448
+2024-01-13,Bengaluru,Home,Phone,3,973,2919
+2024-02-15,Chennai,Apparel,Sofa,19,1014,19266
+2024-06-03,Hyderabad,Electronics,Sofa,18,1067,19206
+2024-04-22,Hyderabad,Home,Bed,4,1098,4392
+2024-08-20,Delhi,Groceries,Oil,8,1668,13344
+2024-01-17,Chennai,Electronics,Shampoo,17,143,2431
+2024-12-25,Delhi,Personal Care,T-Shirt,5,608,3040
+2024-08-10,Delhi,Electronics,Shampoo,13,1288,16744
+2024-12-19,Hyderabad,Home,Soap,1,1491,1491
+2024-07-06,Delhi,Electronics,T-Shirt,13,1980,25740
+2024-12-09,Hyderabad,Groceries,Sofa,4,1415,5660
+2024-12-30,Bengaluru,Groceries,Shampoo,14,948,13272
+2024-06-11,Chennai,Personal Care,Laptop,3,1979,5937
+2024-11-21,Delhi,Apparel,Oil,5,1016,5080
+2024-03-14,Hyderabad,Home,Shampoo,7,997,6979
+2024-08-20,Mumbai,Home,Oil,1,898,898
+2024-08-11,Delhi,Apparel,Phone,12,975,11700
+2024-11-14,Bengaluru,Groceries,Soap,11,1860,20460
+2024-02-29,Bengaluru,Groceries,Oil,8,385,3080
+2024-11-30,Mumbai,Electronics,Phone,6,1327,7962
+2024-08-09,Hyderabad,Personal Care,Jeans,2,783,1566
+2024-02-06,Delhi,Personal Care,Phone,19,1647,31293
+2024-10-04,Hyderabad,Personal Care,Soap,14,918,12852
+2024-07-14,Bengaluru,Electronics,Bed,1,220,220
+2024-12-17,Hyderabad,Personal Care,Jeans,10,1044,10440
+2024-08-29,Bengaluru,Apparel,Sofa,16,1879,30064
+2024-11-19,Hyderabad,Electronics,Rice,4,1787,7148
+2024-08-06,Mumbai,Apparel,Phone,11,1787,19657
+2024-07-10,Chennai,Electronics,Phone,16,1117,17872
+2024-01-17,Mumbai,Personal Care,Oil,1,1311,1311
+2024-01-12,Mumbai,Apparel,Sofa,16,1006,16096
+2024-07-11,Chennai,Apparel,Shampoo,19,112,2128
+2024-01-22,Chennai,Apparel,Laptop,9,702,6318
+2024-04-29,Delhi,Electronics,T-Shirt,9,299,2691
+2024-07-28,Delhi,Home,Phone,9,685,6165
+2024-11-01,Mumbai,Personal Care,Shampoo,17,1891,32147
+2024-09-26,Mumbai,Apparel,Laptop,12,1579,18948
+2024-07-10,Bengaluru,Home,T-Shirt,13,547,7111
+2024-06-23,Bengaluru,Personal Care,Rice,8,1911,15288
+2024-10-11,Delhi,Personal Care,Oil,16,1963,31408
+2024-07-22,Delhi,Apparel,Shampoo,18,940,16920
+2024-06-12,Bengaluru,Apparel,Oil,1,1194,1194
+2024-09-07,Bengaluru,Electronics,T-Shirt,1,689,689
+2024-08-14,Hyderabad,Home,Bed,12,1919,23028
+2024-01-07,Hyderabad,Home,Phone,6,1253,7518
+2024-01-29,Bengaluru,Apparel,Jeans,9,988,8892
+2024-02-02,Hyderabad,Personal Care,Laptop,5,142,710
+2024-05-13,Chennai,Apparel,Sofa,16,619,9904
+2024-03-19,Delhi,Personal Care,Soap,18,1136,20448
+2024-02-27,Delhi,Personal Care,Phone,17,824,14008
+2024-01-26,Bengaluru,Apparel,Jeans,18,722,12996
+2024-08-13,Mumbai,Groceries,Soap,1,1087,1087
+2024-10-11,Bengaluru,Home,Shampoo,19,902,17138
+2024-01-04,Hyderabad,Personal Care,Soap,8,634,5072
+2024-04-08,Mumbai,Personal Care,Rice,3,401,1203
+2024-02-08,Hyderabad,Groceries,Phone,5,1889,9445
+2024-09-27,Chennai,Electronics,Oil,8,626,5008
+2024-10-11,Hyderabad,Groceries,Bed,19,1765,33535
+2024-06-05,Chennai,Groceries,Sofa,18,1696,30528
+2024-03-15,Chennai,Personal Care,Oil,18,1238,22284
+2024-10-14,Hyderabad,Home,Jeans,1,559,559
+2024-05-09,Hyderabad,Groceries,Phone,15,931,13965
+2024-06-23,Chennai,Electronics,Bed,18,604,10872
+2024-03-24,Mumbai,Apparel,Soap,7,1431,10017
+2024-01-22,Chennai,Groceries,Phone,16,1031,16496
+2024-01-27,Delhi,Groceries,Soap,16,424,6784
+2024-07-13,Chennai,Electronics,Shampoo,15,678,10170
+2024-12-02,Mumbai,Home,Rice,6,860,5160
+2024-08-23,Delhi,Groceries,T-Shirt,9,1298,11682
+2024-04-01,Bengaluru,Groceries,Phone,7,950,6650
+2024-01-21,Bengaluru,Home,Jeans,14,1637,22918
+2024-10-29,Mumbai,Electronics,Soap,11,1295,14245
+2024-12-22,Chennai,Groceries,Oil,16,1059,16944
+2024-03-24,Hyderabad,Home,Shampoo,6,601,3606
+2024-09-18,Mumbai,Groceries,Jeans,16,433,6928
+2024-05-26,Delhi,Apparel,Sofa,16,383,6128
+2024-09-13,Delhi,Personal Care,T-Shirt,12,574,6888
+2024-02-27,Bengaluru,Apparel,Shampoo,17,1177,20009
+2024-01-15,Delhi,Groceries,Rice,5,1581,7905
+2024-06-10,Mumbai,Electronics,T-Shirt,13,1702,22126
+2024-06-11,Delhi,Personal Care,Soap,8,1543,12344
+2024-11-15,Mumbai,Apparel,Jeans,5,1737,8685
+2024-10-07,Hyderabad,Home,Sofa,12,731,8772
+2024-10-06,Bengaluru,Electronics,Laptop,9,802,7218
+2024-01-12,Delhi,Apparel,Rice,3,508,1524
+2024-09-30,Mumbai,Home,Bed,3,1081,3243
+2024-09-27,Chennai,Groceries,Soap,1,1427,1427
+2024-07-26,Bengaluru,Home,Laptop,18,658,11844
+2024-01-27,Hyderabad,Apparel,Phone,12,321,3852
+2024-03-12,Mumbai,Apparel,Sofa,9,1656,14904
+2024-02-29,Hyderabad,Groceries,Oil,9,257,2313
+2024-05-24,Hyderabad,Home,Bed,18,447,8046
+2024-04-02,Delhi,Home,Jeans,18,1282,23076
+2024-11-04,Delhi,Groceries,Sofa,7,988,6916
+2024-01-08,Mumbai,Home,T-Shirt,4,1021,4084
+2024-03-19,Chennai,Groceries,Shampoo,13,1358,17654
+2024-01-27,Mumbai,Electronics,T-Shirt,17,761,12937
+2024-06-22,Chennai,Apparel,T-Shirt,2,504,1008
+2024-02-19,Hyderabad,Electronics,Phone,14,1380,19320
+2024-07-17,Bengaluru,Personal Care,Rice,3,776,2328
+2024-12-14,Mumbai,Personal Care,Oil,5,688,3440
+2024-06-29,Mumbai,Personal Care,Bed,14,1720,24080
+2024-01-24,Chennai,Groceries,Rice,3,657,1971
+2024-11-11,Hyderabad,Home,Sofa,7,1004,7028
+2024-02-15,Hyderabad,Electronics,T-Shirt,18,1170,21060
+2024-01-15,Chennai,Electronics,Phone,13,1336,17368
+2024-06-01,Hyderabad,Electronics,Sofa,10,578,5780
+2024-08-09,Delhi,Electronics,Shampoo,13,586,7618
+2024-07-24,Bengaluru,Personal Care,Oil,16,1694,27104
+2024-09-29,Mumbai,Electronics,Bed,9,665,5985
+2024-08-23,Bengaluru,Home,Shampoo,2,1465,2930
+2024-12-05,Mumbai,Personal Care,Phone,5,623,3115
+2024-08-15,Delhi,Electronics,Oil,17,803,13651
+2024-01-09,Hyderabad,Groceries,Sofa,4,1626,6504
+2024-06-14,Chennai,Apparel,T-Shirt,17,1129,19193
+2024-11-14,Delhi,Apparel,T-Shirt,9,920,8280
+2024-08-01,Bengaluru,Apparel,Soap,2,1267,2534
+2024-04-26,Chennai,Personal Care,T-Shirt,18,957,17226
+2024-12-09,Hyderabad,Electronics,Laptop,11,1384,15224
+2024-03-12,Delhi,Personal Care,T-Shirt,13,684,8892
+2024-03-04,Chennai,Home,Laptop,8,785,6280
+2024-07-23,Delhi,Groceries,Jeans,1,331,331
+2024-07-27,Delhi,Groceries,Laptop,17,369,6273
+2024-03-12,Hyderabad,Apparel,Oil,12,1039,12468
+2024-10-03,Mumbai,Apparel,Shampoo,4,1570,6280
+2024-09-30,Chennai,Apparel,Oil,13,973,12649
+2024-11-15,Hyderabad,Electronics,Shampoo,9,1345,12105
+2024-12-03,Delhi,Home,Soap,7,151,1057
+2024-04-04,Hyderabad,Home,Jeans,5,215,1075
+2024-06-14,Mumbai,Home,Shampoo,5,637,3185
+2024-02-01,Chennai,Home,Shampoo,17,1688,28696
+2024-01-11,Mumbai,Apparel,Phone,9,640,5760
+2024-10-27,Bengaluru,Groceries,Rice,6,1142,6852
+2024-08-04,Chennai,Apparel,Rice,19,914,17366
+2024-10-15,Mumbai,Home,Phone,16,1515,24240
+2024-04-11,Delhi,Apparel,T-Shirt,2,890,1780
+2024-09-23,Chennai,Home,Phone,10,1752,17520
+2024-08-01,Chennai,Personal Care,Shampoo,16,717,11472
+2024-06-27,Hyderabad,Groceries,Shampoo,5,518,2590
+2024-03-28,Delhi,Personal Care,Phone,15,408,6120
+2024-02-10,Bengaluru,Electronics,Phone,13,1862,24206
+2024-03-16,Mumbai,Apparel,T-Shirt,13,963,12519
+2024-02-15,Hyderabad,Electronics,Oil,13,285,3705
+2024-06-08,Mumbai,Apparel,Jeans,15,360,5400
+2024-03-20,Bengaluru,Personal Care,Sofa,14,1651,23114
+2024-11-05,Bengaluru,Home,Shampoo,8,1396,11168
+2024-03-26,Chennai,Home,Jeans,11,259,2849
+2024-04-01,Bengaluru,Apparel,Phone,18,969,17442
+2024-05-27,Mumbai,Home,T-Shirt,4,861,3444
+2024-06-09,Delhi,Personal Care,Laptop,10,323,3230
+2024-07-20,Delhi,Home,T-Shirt,1,1379,1379
+2024-08-29,Chennai,Personal Care,Bed,5,279,1395
+2024-12-18,Mumbai,Electronics,Bed,13,119,1547
+2024-01-02,Mumbai,Personal Care,Jeans,1,1747,1747
+2024-08-12,Bengaluru,Groceries,Rice,8,731,5848
+2024-10-15,Mumbai,Groceries,Bed,3,1829,5487
+2024-08-20,Hyderabad,Groceries,Bed,3,1591,4773
+2024-03-17,Bengaluru,Apparel,Oil,7,1746,12222
+2024-04-25,Hyderabad,Apparel,Laptop,4,1333,5332
+2024-06-02,Chennai,Apparel,Oil,3,1636,4908
+2024-04-12,Delhi,Personal Care,Laptop,15,157,2355
+2024-07-12,Chennai,Apparel,Soap,8,1216,9728
+2024-06-14,Delhi,Electronics,Sofa,3,1344,4032
+2024-12-24,Chennai,Groceries,Shampoo,7,822,5754
+2024-03-30,Mumbai,Personal Care,Bed,18,1355,24390
+2024-06-22,Hyderabad,Groceries,Shampoo,11,1897,20867
+2024-05-01,Delhi,Apparel,Bed,11,1487,16357
+2024-05-22,Bengaluru,Personal Care,Oil,17,714,12138
+2024-04-15,Hyderabad,Home,Sofa,6,661,3966
+2024-10-31,Bengaluru,Electronics,Oil,8,473,3784
+2024-12-25,Hyderabad,Apparel,Oil,1,721,721
+2024-11-12,Hyderabad,Apparel,Laptop,10,1579,15790
+2024-05-02,Chennai,Electronics,Rice,19,187,3553
+2024-01-09,Delhi,Electronics,T-Shirt,3,1143,3429
+2024-09-18,Delhi,Home,Jeans,4,1113,4452
+2024-03-13,Hyderabad,Apparel,Shampoo,11,113,1243
+2024-12-24,Mumbai,Apparel,Soap,15,232,3480
+2024-08-10,Mumbai,Groceries,Bed,1,1931,1931
+2024-02-10,Bengaluru,Personal Care,Oil,9,1157,10413
+2024-07-22,Bengaluru,Personal Care,Rice,11,991,10901
+2024-09-20,Chennai,Groceries,Oil,19,1331,25289
+2024-11-23,Hyderabad,Personal Care,Sofa,13,1936,25168
+2024-06-26,Bengaluru,Electronics,Laptop,16,1322,21152
+2024-12-13,Bengaluru,Personal Care,Soap,4,691,2764
+2024-11-13,Hyderabad,Personal Care,T-Shirt,1,682,682
+2024-03-24,Chennai,Groceries,Sofa,13,1278,16614
+2024-11-13,Bengaluru,Home,Phone,1,1713,1713
+2024-04-20,Chennai,Personal Care,Soap,5,1201,6005
+2024-09-07,Delhi,Personal Care,Oil,5,1295,6475
+2024-01-07,Chennai,Home,Sofa,14,388,5432
+2024-03-24,Mumbai,Groceries,T-Shirt,14,1668,23352
+2024-07-26,Mumbai,Home,Rice,8,1935,15480
+2024-11-09,Chennai,Groceries,Rice,4,1911,7644
+2024-01-22,Mumbai,Electronics,Shampoo,7,1112,7784
+2024-01-03,Delhi,Groceries,T-Shirt,19,978,18582
+2024-05-06,Hyderabad,Electronics,Rice,15,1543,23145
+2024-10-23,Mumbai,Electronics,Sofa,4,106,424
+2024-07-06,Mumbai,Groceries,Shampoo,19,1283,24377
+2024-12-27,Chennai,Apparel,Rice,9,339,3051
+2024-01-14,Delhi,Groceries,Soap,13,1546,20098
+2024-01-12,Hyderabad,Personal Care,Laptop,14,635,8890
+2024-03-27,Chennai,Personal Care,Phone,14,1849,25886
+2024-01-12,Chennai,Apparel,T-Shirt,10,169,1690
+2024-01-25,Delhi,Electronics,Sofa,16,315,5040
+2024-10-27,Hyderabad,Apparel,Bed,5,1227,6135
+2024-08-30,Delhi,Personal Care,Oil,6,1850,11100
+2024-05-01,Hyderabad,Apparel,Sofa,2,1177,2354
+2024-05-26,Delhi,Groceries,Rice,13,905,11765
+2024-02-24,Chennai,Apparel,Sofa,13,429,5577
+2024-08-25,Chennai,Electronics,Bed,19,947,17993
+2024-12-21,Bengaluru,Groceries,Oil,18,1326,23868
+2024-06-21,Mumbai,Home,Shampoo,19,1411,26809
+2024-08-08,Delhi,Personal Care,Rice,1,144,144
+2024-04-28,Bengaluru,Personal Care,Jeans,8,928,7424
+2024-11-04,Mumbai,Apparel,Rice,16,297,4752
+2024-07-01,Delhi,Groceries,Phone,2,1339,2678
+2024-10-14,Hyderabad,Home,Jeans,8,1604,12832
+2024-11-02,Mumbai,Groceries,Phone,6,1432,8592
+2024-10-26,Chennai,Personal Care,Bed,16,995,15920
+2024-03-22,Bengaluru,Groceries,T-Shirt,11,1558,17138
+2024-07-29,Mumbai,Home,Oil,17,431,7327
+2024-05-29,Mumbai,Apparel,Laptop,19,795,15105
+2024-02-06,Chennai,Electronics,Shampoo,11,126,1386
+2024-12-17,Delhi,Groceries,Laptop,8,1289,10312
+2024-11-07,Hyderabad,Electronics,Soap,4,417,1668
+2024-12-26,Chennai,Personal Care,Soap,11,1397,15367
+2024-02-28,Hyderabad,Apparel,Bed,8,1506,12048
+2024-05-10,Delhi,Apparel,T-Shirt,9,464,4176
+2024-07-20,Mumbai,Groceries,Soap,2,1226,2452
+2024-08-30,Hyderabad,Apparel,Rice,16,1059,16944
+2024-02-04,Bengaluru,Groceries,Sofa,6,1626,9756
+2024-04-02,Bengaluru,Groceries,Phone,19,1968,37392
+2024-07-25,Chennai,Electronics,Soap,8,472,3776
+2024-12-18,Delhi,Apparel,Bed,14,1739,24346
+2024-11-27,Chennai,Groceries,Phone,16,344,5504
+2024-10-31,Chennai,Electronics,Rice,12,1940,23280
+2024-12-15,Chennai,Home,T-Shirt,5,1292,6460
+2024-07-31,Bengaluru,Electronics,Oil,19,1751,33269
+2024-06-07,Bengaluru,Electronics,Laptop,18,1776,31968
+2024-01-24,Chennai,Groceries,Rice,9,1541,13869
+2024-10-19,Bengaluru,Personal Care,Shampoo,2,1479,2958
+2024-01-04,Delhi,Personal Care,Jeans,12,577,6924
+2024-08-07,Chennai,Personal Care,Bed,2,224,448
+2024-12-29,Bengaluru,Electronics,Laptop,10,636,6360
+2024-01-20,Hyderabad,Groceries,Shampoo,1,805,805
+2024-05-31,Chennai,Apparel,Oil,4,1735,6940
+2024-02-19,Chennai,Electronics,Shampoo,12,1525,18300
+2024-06-25,Delhi,Electronics,T-Shirt,9,1640,14760
+2024-04-05,Mumbai,Groceries,Jeans,4,630,2520
+2024-04-14,Mumbai,Home,Phone,9,1805,16245
+2024-09-06,Delhi,Electronics,Laptop,6,885,5310
+2024-04-26,Delhi,Home,Jeans,1,353,353
+2024-12-19,Delhi,Home,Sofa,10,220,2200
+2024-08-15,Mumbai,Personal Care,Rice,14,1155,16170
+2024-03-06,Delhi,Groceries,Sofa,18,760,13680
+2024-11-30,Bengaluru,Home,Rice,6,1901,11406
+2024-09-18,Chennai,Groceries,T-Shirt,18,1160,20880
+2024-10-21,Chennai,Personal Care,Jeans,16,1812,28992
+2024-08-30,Hyderabad,Groceries,Oil,15,1465,21975
+2024-07-04,Hyderabad,Electronics,Soap,16,1136,18176
+2024-09-02,Chennai,Home,Shampoo,8,1306,10448
+2024-05-04,Bengaluru,Groceries,Soap,13,1780,23140
+2024-09-24,Mumbai,Apparel,Jeans,11,1388,15268
+2024-05-10,Mumbai,Groceries,Sofa,7,187,1309
+2024-08-24,Bengaluru,Home,Soap,17,1585,26945
+2024-01-18,Mumbai,Personal Care,Bed,18,145,2610
+2024-02-09,Delhi,Personal Care,Soap,19,1515,28785
+2024-01-21,Chennai,Home,Rice,13,1242,16146
+2024-08-12,Chennai,Electronics,Bed,15,1032,15480
+2024-12-20,Bengaluru,Electronics,Laptop,1,1654,1654
+2024-10-08,Mumbai,Personal Care,Soap,16,1570,25120
+2024-01-08,Hyderabad,Personal Care,Bed,5,1855,9275
+2024-04-09,Hyderabad,Home,Jeans,3,844,2532
+2024-08-27,Mumbai,Electronics,Shampoo,10,1729,17290
+2024-03-27,Hyderabad,Personal Care,Laptop,19,1066,20254
+2024-10-24,Bengaluru,Electronics,Oil,5,862,4310
+2024-01-14,Bengaluru,Personal Care,Oil,7,861,6027
+2024-11-29,Mumbai,Groceries,T-Shirt,14,893,12502
+2024-01-02,Hyderabad,Apparel,Soap,3,843,2529
+2024-10-19,Bengaluru,Groceries,Shampoo,13,1169,15197
+2024-11-20,Bengaluru,Personal Care,Phone,13,1631,21203
+2024-02-10,Delhi,Apparel,Bed,10,657,6570
+2024-11-13,Delhi,Apparel,Laptop,2,625,1250
+2024-11-11,Bengaluru,Personal Care,Jeans,6,696,4176
+2024-04-20,Mumbai,Personal Care,Soap,8,1954,15632
+2024-01-14,Chennai,Electronics,Jeans,4,939,3756
+2024-08-18,Chennai,Personal Care,Phone,12,102,1224
+2024-03-24,Bengaluru,Home,T-Shirt,15,1151,17265
+2024-05-09,Bengaluru,Personal Care,Phone,8,1504,12032
+2024-08-18,Bengaluru,Home,Rice,7,256,1792
+2024-11-21,Mumbai,Personal Care,Sofa,14,954,13356
+2024-05-24,Delhi,Electronics,Laptop,19,610,11590
+2024-12-10,Bengaluru,Home,Sofa,14,1456,20384
+2024-01-28,Bengaluru,Groceries,Phone,13,1967,25571
+2024-03-06,Hyderabad,Home,T-Shirt,1,786,786
+2024-06-11,Mumbai,Electronics,T-Shirt,19,1237,23503
+2024-08-16,Bengaluru,Home,Oil,1,1512,1512
+2024-09-17,Hyderabad,Personal Care,Soap,4,1610,6440
+2024-06-12,Chennai,Personal Care,Oil,10,1966,19660
+2024-10-27,Bengaluru,Electronics,Laptop,3,1373,4119
+2024-10-29,Bengaluru,Apparel,Laptop,9,670,6030
+2024-10-13,Hyderabad,Personal Care,Laptop,3,814,2442
+2024-01-10,Mumbai,Groceries,Jeans,6,1438,8628
+2024-07-13,Bengaluru,Electronics,Oil,6,338,2028
+2024-04-27,Chennai,Home,Jeans,12,1357,16284
+2024-09-26,Bengaluru,Home,Sofa,1,402,402
+2024-03-20,Chennai,Groceries,Soap,16,706,11296
+2024-04-02,Delhi,Personal Care,Phone,5,1090,5450
+2024-09-22,Delhi,Electronics,Bed,9,1776,15984
+2024-11-27,Chennai,Groceries,Oil,10,433,4330
+2024-12-15,Mumbai,Personal Care,Bed,13,212,2756
+2024-12-26,Bengaluru,Electronics,T-Shirt,15,1744,26160
+2024-09-13,Bengaluru,Home,Oil,12,461,5532
+2024-05-12,Delhi,Electronics,Sofa,5,1980,9900
+2024-10-02,Chennai,Apparel,Oil,5,900,4500
+2024-09-20,Bengaluru,Electronics,Jeans,18,196,3528
+2024-06-19,Bengaluru,Apparel,Soap,12,1970,23640
+2024-01-01,Mumbai,Electronics,Phone,3,115,345
+2024-11-08,Hyderabad,Apparel,Shampoo,7,655,4585
+2024-03-04,Delhi,Home,Phone,17,475,8075
+2024-10-10,Delhi,Personal Care,Phone,19,841,15979
+2024-04-30,Hyderabad,Apparel,T-Shirt,18,489,8802
+2024-04-16,Bengaluru,Apparel,Sofa,1,719,719
+2024-06-23,Mumbai,Home,Bed,5,1340,6700
+2024-07-22,Mumbai,Apparel,Sofa,2,1522,3044
+2024-06-13,Delhi,Groceries,Shampoo,1,1383,1383
+2024-10-31,Mumbai,Home,T-Shirt,7,923,6461
+2024-04-29,Hyderabad,Groceries,Soap,11,419,4609
+2024-02-13,Bengaluru,Home,Phone,11,295,3245
+2024-11-07,Hyderabad,Apparel,Jeans,18,1601,28818

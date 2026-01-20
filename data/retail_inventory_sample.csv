@@ -1,0 +1,11 @@
+Product,Current_Stock,Reorder_Level,Supplier_Lead_Days
+Sofa,467,107,5
+Rice,144,62,3
+Phone,105,116,4
+Jeans,81,50,12
+Laptop,280,84,14
+Shampoo,421,105,9
+Bed,58,86,13
+Oil,240,31,10
+Soap,410,42,7
+T-Shirt,249,33,11
