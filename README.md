@@ -100,12 +100,12 @@ From the analysis, the following insights were derived:
 
 ### 💡 Business Recommendations
 
-Based on the analysis:
-	- Increase safety stock for high-demand products.
-	- Reduce inventory of slow-moving items to minimize holding costs.
-	- Align supplier lead times with demand patterns.
-	- Use data-driven replenishment instead of manual stock decisions.
-	<img width="1710" height="953" alt="Screenshot 2026-01-20 at 11 01 59" src="https://github.com/user-attachments/assets/468a8c17-8015-42f9-ba7a-0e8b1880e6f1" />
+Based on the analysis: 
+- Increase safety stock for high-demand products. 
+- Reduce inventory of slow-moving items to minimize holding costs. 
+- Align supplier lead times with demand patterns. 
+- Use data-driven replenishment instead of manual stock decisions. 
+<img width="1710" height="953" alt="Screenshot 2026-01-20 at 11 01 59" src="https://github.com/user-attachments/assets/468a8c17-8015-42f9-ba7a-0e8b1880e6f1" />
 
 
 ### 📂 Repository Structure
@@ -126,10 +126,10 @@ Retail-Business-Analytics-Project/
 ```
 ### 👤 About Me
 
-I am a beginner in Business Analytics and completed this project to build practical skills in:
-	- Data analysis
-	- Business problem-solving
-	- Power BI visualization
-	- Supply chain analytics
+I am a beginner in Business Analytics and completed this project to build practical skills in: 
+- Data analysis 
+- Business problem-solving 
+- Power BI visualization 
+- Supply chain analytics 
 
 This project represents my hands-on learning journey in analytics.
